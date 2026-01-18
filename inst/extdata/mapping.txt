@@ -1,0 +1,3304 @@
+[Ni-Fe] hydrogenase complex	Cytoplasm
+1-alkyl-2-acetylglycerophosphocholine esterase complex	Cytoplasm
+1,3-beta-D-glucan synthase complex	Cytoplasm
+2-iminoacetate synthase complex	Cytoplasm
+3-isopropylmalate dehydratase complex	Cytoplasm
+3-methyl-2-oxobutanoate dehydrogenase (lipoamide) complex	Cytoplasm
+3-methylcrotonyl-CoA carboxylase complex, mitochondrial	Mitochondrion
+3-phenylpropionate dioxygenase complex	Cytoplasm
+3M complex	Cytoplasm
+4-aminobutyrate transaminase complex	Cytoplasm
+5-lipoxygenase complex	Cytoplasm
+6-phosphofructo-2-kinase/fructose-2,6-biphosphatase complex	Cytoplasm
+6-phosphofructokinase complex	Cytoplasm
+7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase complex	Cytoplasm
+7SK snRNP	Cytoplasm
+9+0 motile cilium	Cilium
+9+0 non-motile cilium	Cilium
+9+2 motile cilium	Cilium
+9+2 non-motile cilium	Cilium
+90S preribosome	Cytoplasm
+A band	A band
+ABIN2-NFKB1-MAP3K8 complex	Cytoplasm
+Accessory outer segment	Cytoplasm
+Acetate CoA-transferase complex	Cytoplasm
+Acetolactate synthase complex	Cytoplasm
+acetyl-CoA carboxylase complex	Cytoplasm
+acetyl-CoA decarbonylase/synthase-carbon monoxide dehydrogenase complex	Cytoplasm
+acetylcholine-gated channel complex	Cytoplasm
+ACF complex	Cytoplasm
+Acid phosphatase complex	Cytoplasm
+Acidocalcisome	Cytoplasm
+Acidocalcisome lumen	Cytoplasm
+Acidocalcisome membrane	Cytoplasm
+Acroblast	Cytoplasm
+Acrosomal lumen	Cytoplasm
+Acrosomal matrix	Cytoplasm
+Acrosomal membrane	Cytoplasm
+Acrosomal vesicle	Cytoplasm
+Actin body	Cytoskeleton
+Actin cap	Cytoskeleton
+Actin cortical patch	Cytoskeleton
+Actin cytoskeleton	Cytoskeleton
+Actin cytoskeleton of dendritic spine	Dendrite
+Actin cytoskeleton-regulatory complex	Cytoskeleton
+Actin filament	Cytoskeleton
+Actin filament branch point	Cytoskeleton
+Actin filament bundle	Cytoskeleton
+Actin filament bundle of actin-based cell projection	Cytoskeleton
+Actin filament bundle of filopodium	Cytoskeleton
+Actin fusion focus	Cytoskeleton
+Actin rod	Cytoskeleton
+Actin tubule	Cytoskeleton
+Actin wave	Cytoskeleton
+actin-based cell projection	Cytoskeleton
+Activated SUMO-E1 ligase complex	Cytoplasm
+Activating signal cointegrator 1 complex	Cytoplasm
+Active sex chromosome	Nucleus
+Activin A complex	Cytoplasm
+Activin AB complex	Cytoplasm
+Activin B complex	Cytoplasm
+Activin complex	Cytoplasm
+Activin receptor complex	Cytoplasm
+Activin responsive factor complex	Cytoplasm
+Actomyosin	Cytoplasm
+Actomyosin contractile ring	Cytoplasm
+ADA complex	Cytoplasm
+Adherens junction	Adherens junction
+Adhesive extracellular matrix	Extracellular space
+ADPG pyrophosphorylase complex	Cytoplasm
+Adrenomedullin receptor complex	Cytoplasm
+Adventitious septum	Cytoplasm
+Aggresome	Cytoplasm
+AIM2 inflammasome complex	Cytoplasm
+Aim21-Tda2 complex	Cytoplasm
+AIP1-IRE1 complex	Cytoplasm
+Aleurone grain	Cytoplasm
+Aleurone grain membrane	Cytoplasm
+Alkanesulfonate monooxygenase complex	Cytoplasm
+Alkyl hydroperoxide reductase complex	Cytoplasm
+Alpha DNA polymerase:primase complex	Nucleus
+alpha-beta T cell receptor complex	Cytoplasm
+alpha-heterochromatin	Nucleus
+alpha,alpha-trehalose-phosphate synthase complex (UDP-forming)	Cytoplasm
+alpha3-beta1 integrin-basigin complex	Cytoplasm
+alpha3-beta1 integrin-CD151 complex	Cytoplasm
+alpha3-beta1 integrin-thrombospondin complex	Cytoplasm
+alpha4-beta1 integrin-JAM2 complex	Cytoplasm
+alpha5-beta1 integrin-endostatin complex	Cytoplasm
+alpha5-beta1 integrin-fibronectin-tissue transglutaminase complex	Cytoplasm
+alpha6-beta1 integrin-CD151 complex	Cytoplasm
+alpha6-beta4 integrin-laminin 5 complex	Cytoplasm
+alpha9-beta1 integrin-ADAM12 complex	Cytoplasm
+alpha9-beta1 integrin-ADAM8 complex	Cytoplasm
+alpha9-beta1 integrin-vascular cell adhesion molecule-1 complex	Cytoplasm
+alphaE-beta7 integrin-E-cadherin complex	Cytoplasm
+alphaIIb-beta3 integrin-CD9 complex	Cytoplasm
+alphaIIb-beta3 integrin-fibronectin-tissue transglutaminase complex	Cytoplasm
+alphaIIb-beta3 integrin-talin complex	Cytoplasm
+alphav-beta1 integrin-osteopontin complex	Cytoplasm
+alphav-beta3 integrin-CD47 complex	Cytoplasm
+alphaV-beta3 integrin-EGFR complex	Cytoplasm
+alphav-beta3 integrin-HMGB1 complex	Cytoplasm
+alphav-beta3 integrin-IGF-1-IGF1R complex	Cytoplasm
+alphav-beta3 integrin-PKCalpha complex	Cytoplasm
+alphav-beta3 integrin-vitronectin complex	Cytoplasm
+alphav-beta5 integrin-vitronectin complex	Cytoplasm
+Alveolar lamellar body	Cytoplasm
+Alveolar lamellar body membrane	Cytoplasm
+Amino acid transport complex	Cytoplasm
+aminoacyl-tRNA synthetase multienzyme complex	Cytoplasm
+Aminodeoxychorismate synthase complex	Cytoplasm
+Ammonium transmembrane transporter complex	Cytoplasm
+Amorphous vesicle	Cytoplasm
+AMPA glutamate receptor complex	Cytoplasm
+Amphisome	Cytoplasm
+Amphisome membrane	Cytoplasm
+Amylin receptor complex	Cytoplasm
+Amylin receptor complex 1	Cytoplasm
+Amylin receptor complex 2	Cytoplasm
+Amylin receptor complex 3	Cytoplasm
+Amyloplast	Cytoplasm
+Amyloplast envelope	Cytoplasm
+Amyloplast membrane	Cytoplasm
+Amyloplast starch grain	Cytoplasm
+Anaerobic ribonucleoside-triphosphate reductase complex	Nucleus
+Anammoxosome	Cytoplasm
+anaphase-promoting complex	Cytoplasm
+Anchored component of external side of plasma membrane	Cell membrane
+Anchored component of membrane	Cytoplasm
+Anchored component of plasma membrane	Cell membrane
+Anchored component of postsynaptic density membrane	Synapse
+Anchored component of postsynaptic membrane	Synapse
+Anchored component of postsynaptic specialization membrane	Synapse
+Anchored component of presynaptic active zone membrane	Synapse
+Anchored component of presynaptic membrane	Synapse
+Anchored component of synaptic membrane	Synapse
+Anchored component of synaptic vesicle membrane	Synapse
+Anchoring collagen complex	Cytoplasm
+Anchoring junction	Cytoplasm
+angiogenin-PRI complex	Cytoplasm
+Annulate lamellae	Cytoplasm
+Annuli extracellular matrix	Extracellular space
+ANPR-A receptor complex	Cytoplasm
+Anterior cell cortex	Cell cortex
+Anthranilate synthase complex	Cytoplasm
+Antipodal cell nucleus	Nucleus
+Antipodal site	Cytoplasm
+AnxA2-p11 complex	Cytoplasm
+AP-1 adaptor complex	Cytoplasm
+AP-2 adaptor complex	Cytoplasm
+AP-3 adaptor complex	Cytoplasm
+AP-4 adaptor complex	Cytoplasm
+AP-5 adaptor complex	Cytoplasm
+AP-type membrane coat adaptor complex	Cytoplasm
+APC-tubulin-IQGAP1 complex	Cytoplasm
+Apical complex	Apical cell membrane
+Apical cortex	Apical cell membrane
+Apical cytoplasm	Apical cell membrane
+Apical dendrite	Dendrite
+Apical distal dendrite	Dendrite
+Apical ectoplasmic specialization	Apical cell membrane
+Apical junction complex	Apical cell membrane
+Apical lamina of hyaline layer	Apical cell membrane
+Apical part of cell	Apical cell membrane
+Apical plasma membrane	Apical cell membrane
+Apical plasma membrane urothelial plaque	Apical cell membrane
+Apical pole of neuron	Apical cell membrane
+Apical proximal dendrite	Dendrite
+Apical recycling endosome	Apical cell membrane
+Apical tubulobulbar complex	Apical cell membrane
+Apicolateral plasma membrane	Cell membrane
+Apicomedial cortex	Cytoplasm
+Apicoplast	Cytoplasm
+Apolipoprotein B mRNA editing enzyme complex	Cytoplasm
+Apoplast	Cytoplasm
+Apoptosome	Cytoplasm
+Apoptotic body	Cytoplasm
+Arbuscule	Cytoplasm
+ARC complex	Cytoplasm
+archaeal-type flagellum	Cytoplasm
+Arciform density	Cytoplasm
+Arp2/3 protein complex	Cytoplasm
+Aryl hydrocarbon receptor complex	Cytoplasm
+ASAP complex	Cytoplasm
+Ascospore wall	Cytoplasm
+ascospore-type prospore	Cytoplasm
+Ascus membrane	Cytoplasm
+Asi complex	Cytoplasm
+Aspartate carbamoyltransferase complex	Cytoplasm
+Aster	Cytoplasm
+ASTRA complex	Cytoplasm
+Astral microtubule	Cytoskeleton
+Astrocyte end-foot	Cytoplasm
+Astrocyte projection	Cytoplasm
+Asymmetric synapse	Synapse
+asymmetric, glutamatergic, excitatory synapse	Synapse
+ATAC complex	Cytoplasm
+ATF1-ATF4 transcription factor complex	Cytoplasm
+atf1-pcr1 complex	Cytoplasm
+ATF4-CREB1 transcription factor complex	Cytoplasm
+Atg1/ULK1 kinase complex	Cytoplasm
+Atg12-Atg5-Atg16 complex	Cytoplasm
+ATG2-ATG18 complex	Cytoplasm
+ATP-binding cassette (ABC) transporter complex	Cytoplasm
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing	Cytoplasm
+ATP-binding cassette (ABC) transporter complex, transmembrane substrate-binding subunit-containing	Cytoplasm
+ATP-dependent citrate lyase complex	Cytoplasm
+ATP-independent citrate lyase complex	Cytoplasm
+ATPase complex	Cytoplasm
+ATPase dependent transmembrane transport complex	Cytoplasm
+ATPase inhibitor complex	Cytoplasm
+ATR-ATRIP complex	Cytoplasm
+Attachment organelle	Cytoplasm
+Autolysosome	Lysosome
+Autolysosome lumen	Lysosome
+Autolysosome membrane	Lysosome
+Autophagosome	Autophagosome
+Autophagosome lumen	Autophagosome
+Autophagosome membrane	Autophagosome membrane
+Autosome	Cytoplasm
+Auxin efflux carrier complex	Cytoplasm
+Axolemma	Cytoplasm
+Axon	Axon
+Axon collateral	Axon
+Axon cytoplasm	Axon
+Axon hillock	Axon
+Axon initial segment	Axon
+Axon terminus	Axon
+Axonal growth cone	Axon
+Axonal spine	Axon
+Axonemal basal plate	Axon
+Axonemal central apparatus	Axon
+Axonemal central pair	Axon
+Axonemal central pair projection	Axon
+Axonemal dynein complex	Axon
+Axonemal microtubule	Axon
+Axonemal outer doublet	Axon
+Axoneme	Axon
+Azurophil granule	Cytoplasm
+Azurophil granule lumen	Cytoplasm
+Azurophil granule membrane	Cytoplasm
+B cell receptor complex	Cytoplasm
+B-WICH complex	Cytoplasm
+B800-820 antenna complex	Cytoplasm
+B800-850 antenna complex	Cytoplasm
+B875 antenna complex	Cytoplasm
+Bacterial biofilm matrix	Cytoplasm
+Bacterial degradosome	Cytoplasm
+Bacterial extracellular vesicle	Extracellular space
+Bacterial microcompartment	Cytoplasm
+Bacterial nucleoid	Nucleus
+Bacterial outer membrane vesicle	Cytoplasm
+Bacterial pre-replicative complex	Cytoplasm
+Bacterial thylakoid	Cytoplasm
+bacterial-type flagellum	Cytoplasm
+bacterial-type flagellum basal body	Cytoplasm
+bacterial-type flagellum basal body, distal rod	Cytoplasm
+bacterial-type flagellum basal body, distal rod, L ring	Cytoplasm
+bacterial-type flagellum basal body, rod	Cytoplasm
+bacterial-type flagellum filament	Cytoplasm
+bacterial-type flagellum filament cap	Cytoplasm
+bacterial-type flagellum hook	Cytoplasm
+bacterial-type flagellum hook-filament junction	Cytoplasm
+bacteroid-containing symbiosome	Cytoplasm
+BAD-BCL-2 complex	Cytoplasm
+BAD-BCL-xl complex	Cytoplasm
+BAK complex	Cytoplasm
+Bam protein complex	Cytoplasm
+Banded collagen fibril	Cytoplasm
+Barr body	Cytoplasm
+Basal body patch	Cytoplasm
+Basal cortex	Cytoplasm
+Basal dendrite	Dendrite
+Basal distal dendrite	Dendrite
+Basal ectoplasmic specialization	Cytoplasm
+Basal labyrinth	Cytoplasm
+Basal part of cell	Cytoplasm
+Basal plasma membrane	Cell membrane
+Basal pole of neuron	Cytoplasm
+Basal pole of outer hair cell	Cytoplasm
+Basal proximal dendrite	Dendrite
+Basal tubulobulbar complex	Cytoplasm
+Basement membrane	Basement membrane
+Basement membrane collagen trimer	Basement membrane
+Basolateral cytoplasm	Basolateral cell membrane
+Basolateral part of cell	Basolateral cell membrane
+Basolateral plasma membrane	Basolateral cell membrane
+Basolateral recycling endosome	Basolateral cell membrane
+BAT3 complex	Cytoplasm
+BAX complex	Cytoplasm
+bBAF complex	Cytoplasm
+BBSome	Cytoplasm
+BCL-2 complex	Cytoplasm
+Bcl-2 family protein complex	Cytoplasm
+Bcl3-Bcl10 complex	Cytoplasm
+Bcl3/NF-kappaB2 complex	Cytoplasm
+BCOR complex	Cytoplasm
+beta-catenin destruction complex	Cytoplasm
+beta-catenin-ICAT complex	Cytoplasm
+beta-catenin-TCF complex	Cytoplasm
+beta-catenin-TCF7L2 complex	Cytoplasm
+beta-galactosidase complex	Cytoplasm
+beta-heterochromatin	Nucleus
+beta-N-acetylhexosaminidase complex	Cytoplasm
+Bfa1-Bub2 complex	Cytoplasm
+bI4 intron splicing complex	Cytoplasm
+Bicellular tight junction	Tight junction
+BID-BCL-2 complex	Cytoplasm
+BID-BCL-xl complex	Cytoplasm
+Bilobe structure	Cytoplasm
+BIM-BCL-2 complex	Cytoplasm
+BIM-BCL-xl complex	Cytoplasm
+Biofilm matrix	Cytoplasm
+Biotin carboxylase complex	Cytoplasm
+Bleb	Cytoplasm
+Blepharoplast	Cytoplasm
+BLOC complex	Cytoplasm
+BLOC-1 complex	Cytoplasm
+BLOC-2 complex	Cytoplasm
+BLOC-3 complex	Cytoplasm
+Blood microparticle	Cytoplasm
+BMP receptor complex	Cytoplasm
+BORC complex	Cytoplasm
+Bounding membrane of organelle	Cytoplasm
+Box C/D RNP complex	Cytoplasm
+Box H/ACA RNP complex	Cytoplasm
+Box H/ACA scaRNP complex	Cytoplasm
+Box H/ACA snoRNP complex	Cytoplasm
+Box H/ACA telomerase RNP complex	Cytoplasm
+Brahma complex	Cytoplasm
+BRCA1-A complex	Cytoplasm
+BRCA1-B complex	Cytoplasm
+BRCA1-BARD1 complex	Cytoplasm
+BRCA1-C complex	Cytoplasm
+BRCA1-Rad51 complex	Cytoplasm
+BRCA2-MAGE-D1 complex	Cytoplasm
+BRE1 E3 ubiquitin ligase complex	Cytoplasm
+Bre1-Rad6 ubiquitin ligase complex	Cytoplasm
+BRISC complex	Cytoplasm
+Brush border	Cytoplasm
+Brush border membrane	Cytoplasm
+BtuCD complex	Cytoplasm
+bub1-bub3 complex	Cytoplasm
+Bunina body	Cytoplasm
+Bursicon neuropeptide hormone complex	Cytoplasm
+C bouton	Cytoplasm
+C zone	Cytoplasm
+C-fiber	Cytoplasm
+C/EBP complex	Cytoplasm
+CA3 pyramidal cell dendrite	Dendrite
+CAAX-protein geranylgeranyltransferase complex	Cytoplasm
+CAF-1 complex	Cytoplasm
+Cajal body	Cajal body
+CAK-ERCC2 complex	Cytoplasm
+Calcineurin complex	Cytoplasm
+Calcitonin family receptor complex	Cytoplasm
+Calcium channel complex	Cytoplasm
+Calcium ion-transporting ATPase complex	Cytoplasm
+calcium- and calmodulin-dependent protein kinase complex	Cytoplasm
+calcium:proton antiporter complex	Cytoplasm
+Calpain complex	Cytoplasm
+Calprotectin complex	Cytoplasm
+Calyx of Held	Cytoplasm
+cAMP-dependent protein kinase complex	Cytoplasm
+Capitate projection	Cytoplasm
+carbamoyl-phosphate synthase complex	Cytoplasm
+Carbon phosphorus lyase complex	Cytoplasm
+carboxy-terminal domain protein kinase complex	Cytoplasm
+Carboxysome	Cytoplasm
+CARD8 inflammasome complex	Cytoplasm
+Cardiac myofibril	Myofibril
+Cardiac Troponin complex	Cytoplasm
+Cargo receptor complex	Cytoplasm
+Carotenoid vesicle	Cytoplasm
+Casparian strip	Cytoplasm
+Caspase complex	Cytoplasm
+Catalase complex	Cytoplasm
+Catalytic step 1 spliceosome	Cytoplasm
+Catalytic step 2 spliceosome	Cytoplasm
+Catenin complex	Cytoplasm
+catenin-TCF7L2 complex	Cytoplasm
+Cation channel complex	Cytoplasm
+cation-transporting ATPase complex	Cytoplasm
+CatSper complex	Cytoplasm
+Caveola	Caveola
+Caveola bulb	Caveola
+Caveola neck	Caveola
+Caveolar macromolecular signaling complex	Caveola
+Cbf1-Met4-Met28 complex	Cytoplasm
+CBF3 complex	Cytoplasm
+CBM complex	Cytoplasm
+CCAAT-binding factor complex	Cytoplasm
+CCR4-NOT core complex	Cytoplasm
+CD40 receptor complex	Cytoplasm
+CD95 death-inducing signaling complex	Cytoplasm
+Cdc24p-Far1p-Gbetagamma complex	Cytoplasm
+Cdc42 GTPase complex	Cytoplasm
+Cdc48p-Npl4p-Vms1p AAA ATPase complex	Cytoplasm
+Cdc50p-Drs2p complex	Cytoplasm
+Cdc73/Paf1 complex	Cytoplasm
+Cdr2 medial cortical node complex	Cytoplasm
+Cell body	Cytoplasm
+Cell body fiber	Cytoplasm
+Cell body membrane	Cytoplasm
+Cell cortex	Cell cortex
+Cell cortex of cell tip	Cell cortex
+Cell cortex region	Cell cortex
+Cell division site	Cytoplasm
+Cell envelope	Cytoplasm
+Cell envelope Sec protein transport complex	Cytoplasm
+Cell hair	Cytoplasm
+Cell junction	Cell junction
+Cell leading edge	Cytoplasm
+Cell outer membrane	Cytoplasm
+Cell periphery	Cytoplasm
+Cell plate	Cytoplasm
+Cell pole	Cytoplasm
+Cell projection	Cell projection
+Cell projection membrane	Cell projection
+Cell septum	Cytoplasm
+Cell surface	Cell surface
+Cell surface furrow	Cell surface
+Cell tip	Cytoplasm
+Cell trailing edge	Cytoplasm
+Cell trailing edge membrane	Cytoplasm
+Cell wall	Cytoplasm
+Cell wall-bounded periplasmic space	Cytoplasm
+cell-cell contact zone	Cytoplasm
+cell-cell junction	Cell junction
+cell-substrate junction	Cytoplasm
+Cellular anatomical entity	Cytoplasm
+Cellular bud	Cytoplasm
+Cellular bud neck	Cytoplasm
+Cellular bud neck contractile ring	Cytoplasm
+Cellular bud neck septin ring	Cytoplasm
+Cellular bud neck septin structure	Cytoplasm
+Cellular bud scar	Cytoplasm
+Cellular bud tip	Cytoplasm
+cellular_component	Cytoplasm
+Cellularization cleavage furrow	Cytoplasm
+Cellulose microfibril	Cytoplasm
+Cellulose synthase complex	Cytoplasm
+Cellulosome	Cytoplasm
+CENP-A containing chromatin	Nucleus
+CENP-A containing nucleosome	Nucleus
+CENP-A recruiting complex	Cytoplasm
+CENP-T-W-S-X complex	Cytoplasm
+Central cylinder	Cytoplasm
+Central element	Cytoplasm
+Central region of growth cone	Growth cone
+Central vacuole	Cytoplasm
+Centralspindlin complex	Cytoplasm
+Centriolar satellite	Centriolar satellite
+Centriolar subdistal appendage	Cytoplasm
+Centriole	Centriole
+Centrosomal corona	Cytoplasm
+Centrosome	Centrosome
+Cerebellar climbing fiber to Purkinje cell synapse	Synapse
+Cerebellar Golgi cell to granule cell synapse	Synapse
+Cerebellar granule cell to Purkinje cell synapse	Synapse
+Cerebellar mossy fiber	Cytoplasm
+CERF complex	Cytoplasm
+CGRP receptor complex	Cytoplasm
+Chaperone complex	Cytoplasm
+chaperone-mediated autophagy translocation complex	Cytoplasm
+Chaperonin ATPase complex	Cytoplasm
+chaperonin-containing T-complex	Cytoplasm
+CHD-type complex	Cytoplasm
+Checkpoint clamp complex	Cytoplasm
+Chiasma	Cytoplasm
+chitin-based extracellular matrix	Extracellular space
+Chitosome	Cytoplasm
+Chitosome membrane	Cytoplasm
+Chloride channel complex	Cytoplasm
+Chloroplast	Cytoplasm
+Chloroplast ATP synthase complex	Cytoplasm
+Chloroplast chromosome	Nucleus
+Chloroplast envelope	Cytoplasm
+Chloroplast inner membrane	Cytoplasm
+Chloroplast intermembrane space	Cytoplasm
+Chloroplast large ribosomal subunit	Cytoplasm
+Chloroplast membrane	Cytoplasm
+Chloroplast nucleoid	Nucleus
+Chloroplast outer membrane	Cytoplasm
+Chloroplast outer membrane translocon	Cytoplasm
+Chloroplast photosystem I	Cytoplasm
+Chloroplast photosystem II	Cytoplasm
+Chloroplast ribosome	Cytoplasm
+Chloroplast ribulose bisphosphate carboxylase complex	Cytoplasm
+Chloroplast small ribosomal subunit	Cytoplasm
+Chloroplast starch grain	Cytoplasm
+Chloroplast stroma	Cytoplasm
+Chloroplast stromal thylakoid	Cytoplasm
+Chloroplast thylakoid	Cytoplasm
+Chloroplast thylakoid lumen	Cytoplasm
+Chloroplast thylakoid membrane	Cytoplasm
+Chloroplast thylakoid membrane protein complex	Cytoplasm
+Chloroplast vesicle	Cytoplasm
+Chloroplastic endopeptidase Clp complex	Cytoplasm
+Chlorosome	Cytoplasm
+Chlorosome envelope	Cytoplasm
+Cholinergic synapse	Synapse
+CHOP-ATF3 complex	Cytoplasm
+CHOP-ATF4 complex	Cytoplasm
+CHOP-C/EBP complex	Cytoplasm
+CHRAC	Cytoplasm
+Chromaffin granule	Chromaffin granule
+Chromaffin granule lumen	Chromaffin granule
+Chromaffin granule membrane	Chromaffin granule membrane
+Chromatin	Nucleus
+Chromatin lock complex	Nucleus
+Chromatin silencing complex	Nucleus
+Chromatoid body	Cytoplasm
+Chromocenter	Cytoplasm
+Chromoplast	Cytoplasm
+Chromoplast envelope	Cytoplasm
+Chromoplast inner membrane	Cytoplasm
+Chromoplast membrane	Cytoplasm
+Chromoplast stroma	Cytoplasm
+Chromosomal region	Cytoplasm
+Chromosome	Nucleus
+Chromosome passenger complex	Nucleus
+chromosome, centromeric core domain	Nucleus
+chromosome, centromeric region	Nucleus
+chromosome, subtelomeric region	Nucleus
+chromosome, telomeric region	Nucleus
+chromosome, telomeric repeat region	Nucleus
+Chylomicron	Cytoplasm
+CIA complex	Cytoplasm
+Ciliary basal body	Cytoplasm
+Ciliary base	Cytoplasm
+Ciliary cap	Cytoplasm
+Ciliary inversin compartment	Cytoplasm
+Ciliary membrane	Cytoplasm
+Ciliary necklace	Cytoplasm
+Ciliary neurotrophic factor receptor complex	Cytoplasm
+Ciliary plasm	Cytoplasm
+Ciliary pocket	Cytoplasm
+Ciliary pocket collar	Cytoplasm
+Ciliary pocket membrane	Cytoplasm
+Ciliary rootlet	Cytoplasm
+Ciliary shaft	Cytoplasm
+Ciliary tip	Cytoplasm
+Ciliary transition fiber	Cytoplasm
+Ciliary transition zone	Cytoplasm
+Ciliary vesicle	Cytoplasm
+Cilium	Cilium
+cis-Golgi network	cis-Golgi network
+cis-Golgi network membrane	cis-Golgi network membrane
+CKM complex	Cytoplasm
+Classical Lewy body	Cytoplasm
+classical-complement-pathway C3/C5 convertase complex	Cytoplasm
+Clathrin adaptor complex	Cytoplasm
+Clathrin coat	Cytoplasm
+Clathrin coat of coated pit	Coated pit
+Clathrin coat of endocytic vesicle	Cytoplasm
+Clathrin coat of synaptic vesicle	Synapse
+Clathrin coat of trans-Golgi network vesicle	Golgi apparatus
+Clathrin complex	Cytoplasm
+Clathrin vesicle coat	Cytoplasm
+clathrin-coated endocytic vesicle	Cytoplasm
+clathrin-coated endocytic vesicle membrane	Cytoplasm
+clathrin-coated pit	Clathrin-coated pit
+clathrin-coated vesicle	Clathrin-coated vesicle
+clathrin-coated vesicle membrane	Clathrin-coated vesicle membrane
+clathrin-sculpted acetylcholine transport vesicle	Cytoplasm
+clathrin-sculpted acetylcholine transport vesicle membrane	Cytoplasm
+clathrin-sculpted gamma-aminobutyric acid transport vesicle	Cytoplasm
+clathrin-sculpted gamma-aminobutyric acid transport vesicle membrane	Cytoplasm
+clathrin-sculpted glutamate transport vesicle	Cytoplasm
+clathrin-sculpted glutamate transport vesicle membrane	Cytoplasm
+clathrin-sculpted monoamine transport vesicle	Cytoplasm
+clathrin-sculpted monoamine transport vesicle membrane	Cytoplasm
+clathrin-sculpted vesicle	Cytoplasm
+Cleavage apparatus septin structure	Cytoplasm
+Cleavage body	Cytoplasm
+Cleavage furrow	Cytoplasm
+Climbing fiber	Cytoplasm
+CLOCK-BMAL transcription complex	Cytoplasm
+CLRC complex	Cytoplasm
+Cluster of actin-based cell projections	Cytoskeleton
+CMG complex	Cytoplasm
+Cnida	Cytoplasm
+CNTFR-CLCF1 complex	Cytoplasm
+CoA-synthesizing protein complex	Cytoplasm
+Coated membrane	Cytoplasm
+Coated vesicle	Cytoplasm
+Coated vesicle membrane	Cytoplasm
+CoB-CoM heterodisulfide reductase complex	Cytoplasm
+Cobalamin transport complex	Cytoplasm
+Cochlear hair cell ribbon synapse	Synapse
+cofilin-actin rod	Cytoskeleton
+Cohesin complex	Cytoplasm
+Collagen anchoring fibril	Cytoplasm
+Collagen and cuticulin-based cuticle extracellular matrix	Extracellular space
+Collagen beaded filament	Cytoplasm
+Collagen network	Cytoplasm
+Collagen sheet	Cytoplasm
+Collagen trimer	Cytoplasm
+Collagen type I trimer	Cytoplasm
+Collagen type II trimer	Cytoplasm
+Collagen type III trimer	Cytoplasm
+Collagen type IV trimer	Cytoplasm
+Collagen type IX trimer	Cytoplasm
+Collagen type V trimer	Cytoplasm
+Collagen type VI trimer	Cytoplasm
+Collagen type VII anchoring fibril	Cytoplasm
+Collagen type VII trimer	Cytoplasm
+Collagen type VIII trimer	Cytoplasm
+Collagen type X trimer	Cytoplasm
+Collagen type XI trimer	Cytoplasm
+Collagen type XII trimer	Cytoplasm
+Collagen type XIII trimer	Cytoplasm
+Collagen type XIV trimer	Cytoplasm
+Collagen type XV trimer	Cytoplasm
+Collagen type XVI trimer	Cytoplasm
+Collagen type XXVI trimer	Cytoplasm
+collagen-containing extracellular matrix	Extracellular space
+Columella	Cytoplasm
+COMA complex	Cytoplasm
+Commitment complex	Cytoplasm
+Compact myelin	Myelin membrane
+Complement component C1 complex	Cytoplasm
+Complement component C1q complex	Cytoplasm
+Complex laminated body	Cytoplasm
+Complex of collagen trimers	Cytoplasm
+Compound sieve plate	Cytoplasm
+Concave side of sperm head	Cytoplasm
+Condensed chromosome	Nucleus
+Condensed chromosome, centromeric region	Nucleus
+Condensed nuclear chromosome	Nucleus
+Condensin complex	Cytoplasm
+Cone cell pedicle	Cytoplasm
+Cone matrix sheath	Cytoplasm
+Cone photoreceptor disc membrane	Cytoplasm
+Cone photoreceptor outer segment	Cytoplasm
+Cone telodendria	Cytoplasm
+Connexin complex	Cytoplasm
+Conoid	Cytoplasm
+Contractile actin filament bundle	Cytoskeleton
+Contractile fiber	Cytoplasm
+Contractile ring	Cytoplasm
+Contractile vacuolar membrane	Cytoplasm
+Contractile vacuole	Contractile vacuole
+Contractile vacuole complex	Contractile vacuole
+Contractile vacuole pore	Contractile vacuole
+COP9 signalosome	Cytoplasm
+COPI vesicle coat	Cytoplasm
+COPI-coated Golgi to ER transport vesicle	Golgi apparatus
+COPI-coated vesicle	COPI-coated vesicle
+COPI-coated vesicle membrane	COPI-coated vesicle membrane
+COPII vesicle coat	Cytoplasm
+COPII vesicles tethering complex	Cytoplasm
+COPII-coated ER to Golgi transport vesicle	Golgi apparatus
+Copper ion transmembrane transporter complex	Cytoplasm
+Core mediator complex	Cytoplasm
+Core primosome complex	Cytoplasm
+Core TFIIH complex portion of holo TFIIH complex	Cytoplasm
+core-binding factor complex	Cytoplasm
+Cornified envelope	Cytoplasm
+Cortical actin cytoskeleton	Cytoskeleton
+Cortical cytoskeleton	Cytoskeleton
+Cortical endoplasmic reticulum	Endoplasmic reticulum
+Cortical granule	Cytoplasm
+Cortical layer of collagen and cuticulin-based cuticle extracellular matrix	Extracellular space
+Cortical Lewy body	Cytoplasm
+Cortical microtubule	Cytoskeleton
+Cortical microtubule cytoskeleton	Cytoskeleton
+Cortical microtubule plus-end	Cytoskeleton
+CORVET complex	Cytoplasm
+Costamere	Cytoplasm
+Counting factor complex	Cytoplasm
+CRD-mediated mRNA stability complex	Cytoplasm
+Creatine kinase complex	Cytoplasm
+CRLF-CLCF1 complex	Cytoplasm
+Cry-Per complex	Cytoplasm
+Crystalloid	Cytoplasm
+CSF1-CSF1R complex	Cytoplasm
+CSL-Notch-Mastermind transcription factor complex	Cytoplasm
+CST complex	Cytoplasm
+CTDK-1 complex	Cytoplasm
+Ctf18 RFC-like complex	Cytoplasm
+CUGBP1-eIF2 complex	Cytoplasm
+Cul2-RING ubiquitin ligase complex	Cytoplasm
+Cul3-RING ubiquitin ligase complex	Cytoplasm
+Cul4-RING E3 ubiquitin ligase complex	Cytoplasm
+Cul4A-RING E3 ubiquitin ligase complex	Cytoplasm
+Cul4B-RING E3 ubiquitin ligase complex	Cytoplasm
+Cul5-RING ubiquitin ligase complex	Cytoplasm
+Cul7-RING ubiquitin ligase complex	Cytoplasm
+Cul8-RING ubiquitin ligase complex	Cytoplasm
+cullin-RING ubiquitin ligase complex	Cytoplasm
+CURI complex	Cytoplasm
+Curli	Cytoplasm
+Curli secretion complex	Cytoplasm
+Cus cation efflux complex	Cytoplasm
+Cuticular plate	Cytoplasm
+Cvt vesicle	Cytoplasm
+Cvt vesicle membrane	Cytoplasm
+Cyanelle	Cytoplasm
+Cyanelle envelope	Cytoplasm
+Cyanelle inner membrane	Cytoplasm
+Cyanelle membrane	Cytoplasm
+Cyanelle stroma	Cytoplasm
+Cyanelle thylakoid	Cytoplasm
+Cyanelle thylakoid membrane	Cytoplasm
+Cyanosome	Cytoplasm
+cyclic-nucleotide phosphodiesterase complex	Nucleus
+Cyclin A1-CDK1 complex	Cytoplasm
+Cyclin A1-CDK2 complex	Cytoplasm
+Cyclin A2-CDK1 complex	Cytoplasm
+Cyclin A2-CDK2 complex	Cytoplasm
+Cyclin B1-CDK1 complex	Cytoplasm
+Cyclin B2-CDK1 complex	Cytoplasm
+Cyclin D1-CDK4 complex	Cytoplasm
+Cyclin D1-CDK6 complex	Cytoplasm
+Cyclin D2-CDK4 complex	Cytoplasm
+Cyclin D2-CDK6 complex	Cytoplasm
+Cyclin D3-CDK4 complex	Cytoplasm
+Cyclin D3-CDK6 complex	Cytoplasm
+Cyclin E1-CDK2 complex	Cytoplasm
+Cyclin E2-CDK2 complex	Cytoplasm
+Cyclin K-CDK12 complex	Cytoplasm
+Cyclin K-CDK13 complex	Cytoplasm
+cyclin/CDK positive transcription elongation factor complex	Cytoplasm
+Cyst wall	Cytoplasm
+Cysteine synthase complex	Cytoplasm
+Cytochrome b6f complex	Cytoplasm
+Cytochrome o ubiquinol oxidase complex	Cytoplasm
+Cytolytic granule	Cytoplasm
+Cytolytic granule lumen	Cytoplasm
+Cytolytic granule membrane	Cytolytic granule membrane
+Cytoneme	Cytoplasm
+Cytoophidium	Cytoplasm
+Cytoplasm	Cytoplasm
+Cytoplasmic cyclin-dependent protein kinase holoenzyme complex	Cytoplasm
+Cytoplasmic dynein complex	Cytoplasm
+Cytoplasmic exosome (RNase complex)	Cytoplasm
+Cytoplasmic microtubule	Cytoskeleton
+Cytoplasmic microtubule bundle	Cytoskeleton
+Cytoplasmic microtubule minus-end	Cytoskeleton
+Cytoplasmic microtubule plus-end	Cytoskeleton
+Cytoplasmic origin of replication recognition complex	Cytoplasm
+Cytoplasmic periphery of the nuclear pore complex	Nucleus
+Cytoplasmic region	Cytoplasm
+Cytoplasmic replication fork	Cytoplasm
+Cytoplasmic replisome	Cytoplasm
+Cytoplasmic ribonucleoprotein granule	Nucleus
+Cytoplasmic SCF ubiquitin ligase complex	Cytoplasm
+Cytoplasmic side of apical plasma membrane	Apical cell membrane
+Cytoplasmic side of dendritic spine plasma membrane	Dendrite
+Cytoplasmic side of early endosome membrane	Cytoplasm
+Cytoplasmic side of endoplasmic reticulum membrane	Endoplasmic reticulum
+Cytoplasmic side of endosome membrane	Cytoplasm
+Cytoplasmic side of Golgi membrane	Golgi apparatus
+Cytoplasmic side of late endosome membrane	Cytoplasm
+Cytoplasmic side of lysosomal membrane	Lysosome
+Cytoplasmic side of membrane	Cytoplasm
+Cytoplasmic side of mitochondrial outer membrane	Mitochondrion
+Cytoplasmic side of nuclear pore	Nucleus
+Cytoplasmic side of plasma membrane	Cell membrane
+Cytoplasmic side of rough endoplasmic reticulum membrane	Endoplasmic reticulum
+Cytoplasmic side of trans-Golgi network transport vesicle membrane	Golgi apparatus
+Cytoplasmic side of transport vesicle membrane	Cytoplasm
+Cytoplasmic stress granule	Cytoplasm
+Cytoplasmic U snRNP body	Cytoplasm
+Cytoplasmic ubiquitin ligase complex	Cytoplasm
+Cytoplasmic vesicle	Cytoplasm
+Cytoplasmic vesicle lumen	Cytoplasm
+Cytoplasmic vesicle membrane	Cytoplasm
+Cytoproct	Cytoplasm
+Cytoskeletal calyx	Cytoskeleton
+Cytoskeleton	Cytoskeleton
+Cytoskeleton of dendritic spine	Dendrite
+Cytoskeleton of presynaptic active zone	Synapse
+Cytosol	Cytosol
+Cytosolic aryl hydrocarbon receptor complex	Cytosol
+Cytosolic creatine kinase complex	Cytosol
+Cytosolic large ribosomal subunit	Cytosol
+Cytosolic proteasome complex	Cytosol
+Cytosolic pyruvate dehydrogenase complex	Cytosol
+Cytosolic region	Cytosol
+Cytosolic ribosome	Cytosol
+Cytosolic small ribosomal subunit	Cytosol
+Cytosolic tRNA wobble base thiouridylase complex	Cytosol
+Cytostome	Cytoplasm
+D-amino-acid dehydrogenase complex	Cytoplasm
+DAPK1-calmodulin complex	Cytoplasm
+DASH complex	Cytoplasm
+Dbf4-dependent protein kinase complex	Cytoplasm
+DBIRD complex	Cytoplasm
+Dcp1-Dcp2 complex	Cytoplasm
+death-inducing signaling complex	Cytoplasm
+Decaprenyl diphosphate synthase complex	Cytoplasm
+Deep fiber	Cytoplasm
+Dehydrodolichyl diphosphate synthase complex	Cytoplasm
+Delta DNA polymerase complex	Nucleus
+Delta1 complex	Cytoplasm
+Dendriole	Cytoplasm
+Dendrite	Dendrite
+Dendrite cytoplasm	Dendrite
+Dendrite membrane	Dendrite
+Dendrite terminus	Dendrite
+Dendritic branch	Dendrite
+Dendritic branch point	Dendrite
+Dendritic cell dendrite	Dendrite
+Dendritic filopodium	Dendrite
+Dendritic growth cone	Dendrite
+Dendritic knob	Dendrite
+Dendritic lamellar body	Dendrite
+Dendritic microtubule	Dendrite
+Dendritic shaft	Dendrite
+Dendritic spine	Dendritic spine
+Dendritic spine cytoplasm	Dendrite
+Dendritic spine head	Dendrite
+Dendritic spine membrane	Dendritic spine membrane
+Dendritic spine neck	Dendrite
+Dendritic spine origin	Dendrite
+Dendritic tree	Dendrite
+Dendritic tuft	Dendrite
+Dense body	Cytoplasm
+Dense core granule	Cytoplasm
+Dense core granule lumen	Cytoplasm
+Dense core granule membrane	Cytoplasm
+Dense fibrillar component	Cytoplasm
+Dense nuclear body	Nucleus
+Dentate gyrus mossy fiber	Cytoplasm
+Derlin-1 retrotranslocation complex	Cytoplasm
+Derlin-1-VIMP complex	Cytoplasm
+Desmosome	Desmosome
+Deuterosome	Cytoplasm
+DiaA complex	Cytoplasm
+Diamine N-acetyltransferase complex	Cytoplasm
+Dihydrolipoyl dehydrogenase complex	Cytoplasm
+Dimeric IgA immunoglobulin complex	Cytoplasm
+Dimeric ribonuclease P complex	Nucleus
+Dimethyl sulfoxide reductase complex	Cytoplasm
+Dinoflagellate cingulum	Cytoplasm
+Dinoflagellate epicone	Cytoplasm
+Dinoflagellate hypocone	Cytoplasm
+Dinoflagellate peduncle	Cytoplasm
+Dinoflagellate sulcus	Cytoplasm
+Discoidal high-density lipoprotein particle	Cytoplasm
+Distal axon	Axon
+Distal dendrite	Dendrite
+Distal portion of axoneme	Axon
+Division septum	Cytoplasm
+Divisome complex	Cytoplasm
+DNA gyrase complex	Nucleus
+DNA helicase A complex	Nucleus
+DNA ligase III-XRCC1 complex	Nucleus
+DNA ligase IV complex	Nucleus
+DNA methyltransferase complex	Nucleus
+DNA packaging complex	Nucleus
+DNA polymerase III complex	Nucleus
+DNA polymerase III, clamp loader complex	Nucleus
+DNA polymerase V complex	Nucleus
+DNA recombinase auxiliary factor complex	Nucleus
+DNA recombinase complex	Nucleus
+DNA recombinase mediator complex	Nucleus
+DNA repair complex	Nucleus
+DNA replication factor A complex	Nucleus
+DNA replication factor C complex	Nucleus
+DNA replication factor C core complex	Nucleus
+DNA replication preinitiation complex	Nucleus
+DNA replication termination region	Nucleus
+DNA topoisomerase III-beta-TDRD3 complex	Nucleus
+DNA topoisomerase IV complex	Nucleus
+DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) complex	Nucleus
+DNA-dependent protein kinase complex	Nucleus
+DNA-dependent protein kinase-DNA ligase 4 complex	Nucleus
+DNA-directed RNA polymerase complex	Nucleus
+DnaA-DiaA complex	Nucleus
+DnaA-DnaB-DnaC complex	Nucleus
+DnaA-Hda complex	Nucleus
+DnaA-HU complex	Nucleus
+DnaA-oriC complex	Nucleus
+DnaB helicase complex	Nucleus
+DnaB-DnaC complex	Nucleus
+DnaB-DnaG complex	Nucleus
+Doa10p ubiquitin ligase complex	Cytoplasm
+dolichol-phosphate-mannose synthase complex	Cytoplasm
+dolichyl-phosphate-mannose-protein mannosyltransferase complex	Cytoplasm
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt2p dimer complex	Cytoplasm
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt1p-Pmt3p dimer complex	Cytoplasm
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt4p homodimer complex	Cytoplasm
+dolichyl-phosphate-mannose-protein mannosyltransferase Pmt5p-Pmt3p dimer complex	Cytoplasm
+Dolipore septum	Cytoplasm
+Dom34-Hbs1 complex	Cytoplasm
+Dopaminergic synapse	Synapse
+Dosage compensation complex	Cytoplasm
+DPS complex	Cytoplasm
+DRM complex	Cytoplasm
+Dsc E3 ubiquitin ligase complex	Cytoplasm
+DSIF complex	Cytoplasm
+Dsl1/NZR complex	Cytoplasm
+DUBm complex	Cytoplasm
+Dxr protein complex	Cytoplasm
+Dynactin complex	Cytoskeleton
+Dynamic microtubule bundle	Cytoskeleton
+Dynein axonemal particle	Axon
+Dynein complex	Cytoplasm
+Dystrobrevin complex	Cytoplasm
+Dystroglycan complex	Cytoplasm
+dystrophin-associated glycoprotein complex	Cytoplasm
+E.F.G complex	Cytoplasm
+Early endosome	Early endosome
+Early endosome lumen	Early endosome
+Early endosome membrane	Early endosome membrane
+Early phagosome	Phagosome
+Early phagosome membrane	Phagosome membrane
+Early recombination nodule	Cytoplasm
+EARP complex	Cytoplasm
+Ecdysone receptor holocomplex	Cytoplasm
+Ecsit-NDUFAF1 complex	Cytoplasm
+Ectexine	Cytoplasm
+Ectoplasm	Cytoplasm
+EDS1 disease-resistance complex	Cytoplasm
+EFF-1 complex	Cytoplasm
+Efflux pump complex	Cytoplasm
+egasyn-beta-glucuronidase complex	Cytoplasm
+EGFR-Grb2-Sos complex	Cytoplasm
+EGFR-Shc-Grb2-Sos complex	Cytoplasm
+EGFR:ERBB2 complex	Cytoplasm
+Egg chorion	Cytoplasm
+Egg coat	Cytoplasm
+eif4e-cup complex	Cytoplasm
+Eisosome	Cytoplasm
+Eisosome filament	Cytoplasm
+EKC/KEOPS complex	Cytoplasm
+Elaioplast	Cytoplasm
+Elastic fiber	Cytoplasm
+Electron transfer flavoprotein complex	Cytoplasm
+Elg1 RFC-like complex	Cytoplasm
+Elongator holoenzyme complex	Cytoplasm
+Elongin complex	Cytoplasm
+EMC complex	Cytoplasm
+EMILIN complex	Cytoplasm
+EmrE multidrug transporter complex	Cytoplasm
+Encapsulin nanocompartment	Cytoplasm
+Endexine	Cytoplasm
+Endocytic patch	Cytoplasm
+Endocytic vesicle	Cytoplasm
+Endocytic vesicle lumen	Cytoplasm
+Endocytic vesicle membrane	Cytoplasm
+Endodeoxyribonuclease complex	Nucleus
+Endolysosome	Lysosome
+Endolysosome lumen	Lysosome
+Endolysosome membrane	Lysosome
+Endomembrane system	Cytoplasm
+Endonuclear canal	Nucleus
+Endonuclease complex	Nucleus
+Endopeptidase Clp complex	Cytoplasm
+Endopeptidase complex	Cytoplasm
+Endoplasmic reticulum	Endoplasmic reticulum
+Endoplasmic reticulum chaperone complex	Endoplasmic reticulum
+Endoplasmic reticulum cisternal network	Endoplasmic reticulum
+Endoplasmic reticulum exit site	Endoplasmic reticulum
+Endoplasmic reticulum lumen	Endoplasmic reticulum
+Endoplasmic reticulum membrane	Endoplasmic reticulum membrane
+Endoplasmic reticulum palmitoyltransferase complex	Endoplasmic reticulum
+Endoplasmic reticulum protein-containing complex	Endoplasmic reticulum
+Endoplasmic reticulum quality control compartment	Endoplasmic reticulum
+Endoplasmic reticulum Sec complex	Endoplasmic reticulum
+Endoplasmic reticulum subcompartment	Endoplasmic reticulum
+Endoplasmic reticulum tubular network	Endoplasmic reticulum
+Endoplasmic reticulum tubular network membrane	Endoplasmic reticulum
+Endoplasmic reticulum-endosome membrane contact site	Endoplasmic reticulum
+Endoplasmic reticulum-Golgi intermediate compartment	Endoplasmic reticulum-Golgi intermediate compartment
+Endoplasmic reticulum-Golgi intermediate compartment membrane	Endoplasmic reticulum-Golgi intermediate compartment membrane
+Endoplasmic reticulum-plasma membrane contact site	Cell membrane
+Endoplasmic reticulum-vacuole membrane contact site	Endoplasmic reticulum
+Endoribonuclease complex	Nucleus
+Endosomal scaffold complex	Cytoplasm
+Endosome	Endosome
+Endosome lumen	Endosome
+Endosome membrane	Endosome membrane
+Endosome to plasma membrane transport vesicle	Cell membrane
+Endospore coat	Cytoplasm
+Endospore core	Cytoplasm
+Endospore cortex	Cytoplasm
+Endospore external encapsulating structure	Cytoplasm
+endospore-forming forespore	Cytoplasm
+Endothelial microparticle	Cytoplasm
+Enhanceosome	Cytoplasm
+eNoSc complex	Cytoplasm
+Ensheathing process	Cytoplasm
+Enterobactin synthetase complex	Cytoskeleton
+Epidermal lamellar body	Cytoplasm
+Epidermal lamellar body membrane	Cytoplasm
+Epididymosome	Cytoplasm
+Epsilon DNA polymerase complex	Nucleus
+Equatorial cell cortex	Cell cortex
+Equatorial microtubule organizing center	Cytoskeleton
+ER body	Cytoplasm
+ER membrane insertion complex	Cytoplasm
+ER to Golgi transport vesicle membrane	Golgi apparatus
+ER ubiquitin ligase complex	Cytoplasm
+ERBB3:ERBB2 complex	Cytoplasm
+ERBB4-EGFR complex	Cytoplasm
+ERBB4-ERBB3 complex	Cytoplasm
+ERBB4-ERBB4 complex	Cytoplasm
+ERBB4:ERBB2 complex	Cytoplasm
+ERCC4-ERCC1 complex	Cytoplasm
+eRF1 methyltransferase complex	Cytoplasm
+ERMES complex	Cytoplasm
+esBAF complex	Cytoplasm
+ESC/E(Z) complex	Cytoplasm
+ESCRT complex	Cytoplasm
+ESCRT I complex	Cytoplasm
+ESCRT II complex	Cytoplasm
+ESCRT III complex	Cytoplasm
+ESCRT IV complex	Cytoplasm
+ESCRT-0 complex	Cytoplasm
+Ethanolamine ammonia-lyase complex	Cytoplasm
+Ethanolamine degradation polyhedral organelle	Cytoplasm
+Etioplast	Cytoplasm
+Etioplast envelope	Cytoplasm
+Etioplast membrane	Cytoplasm
+Etioplast prolamellar body	Cytoplasm
+Etioplast stroma	Cytoplasm
+Euchromatin	Nucleus
+Eukaryotic 43S preinitiation complex	Cytoplasm
+Eukaryotic 48S preinitiation complex	Cytoplasm
+Eukaryotic 80S initiation complex	Cytoplasm
+Eukaryotic translation elongation factor 1 complex	Cytoplasm
+Eukaryotic translation initiation factor 2 complex	Cytoplasm
+Eukaryotic translation initiation factor 2B complex	Cytoplasm
+Eukaryotic translation initiation factor 3 complex	Cytoplasm
+Eukaryotic translation initiation factor 3 complex, eIF3e	Cytoplasm
+Eukaryotic translation initiation factor 3 complex, eIF3m	Cytoplasm
+Eukaryotic translation initiation factor 4F complex	Cytoplasm
+Excinuclease repair complex	Nucleus
+Excitatory neuromuscular junction	Cytoplasm
+Excitatory synapse	Synapse
+Exine	Cytoplasm
+Exocyst	Cytoplasm
+Exocytic vesicle	Cytoplasm
+Exocytic vesicle membrane	Cytoplasm
+Exodeoxyribonuclease V complex	Nucleus
+Exodeoxyribonuclease VII complex	Nucleus
+Exomer complex	Cytoplasm
+exon-exon junction complex	Cytoplasm
+exon-exon junction subcomplex mago-y14	Cytoplasm
+Exoneme	Cytoplasm
+Exopher	Cytoplasm
+Exoribonuclease complex	Nucleus
+Exosome (RNase complex)	Cytoplasm
+Exosporium	Cytoplasm
+External encapsulating structure	Cytoplasm
+External side of apical plasma membrane	Apical cell membrane
+External side of cell outer membrane	Cytoplasm
+External side of cell wall	Cytoplasm
+External side of plasma membrane	Cell membrane
+Extracellular core region of desmosome	Desmosome
+Extracellular exosome	Extracellular exosome
+Extracellular ferritin complex	Extracellular space
+Extracellular isoamylase complex	Extracellular space
+Extracellular matrix	Extracellular matrix
+Extracellular matrix of synaptic cleft	Synapse
+Extracellular membrane-bounded organelle	Extracellular space
+Extracellular non-membrane-bounded organelle	Extracellular space
+Extracellular organelle	Extracellular space
+Extracellular region	Extracellular space
+Extracellular space	Extracellular space
+Extracellular vesicle	Extracellular space
+Extrachromosomal circular DNA	Nucleus
+Extrachromosomal DNA	Nucleus
+Extrachromosomal rDNA circle	Nucleus
+Extrahaustorial matrix	Cytoplasm
+Extraorganismal space	Cytoplasm
+Extrinsic component of cytoplasmic side of plasma membrane	Cell membrane
+Extrinsic component of dense core granule membrane	Cytoplasm
+Extrinsic component of endoplasmic reticulum membrane	Endoplasmic reticulum
+Extrinsic component of endosome membrane	Endosome membrane
+Extrinsic component of external side of plasma membrane	Cell membrane
+Extrinsic component of intraperoxisomal membrane	Peroxisome
+Extrinsic component of lysosome membrane	Lysosome
+Extrinsic component of membrane	Cytoplasm
+Extrinsic component of mitochondrial inner membrane	Mitochondrion
+Extrinsic component of mitochondrial outer membrane	Mitochondrion
+Extrinsic component of neuronal dense core vesicle membrane	Cytoplasm
+Extrinsic component of omegasome membrane	Cytoplasm
+Extrinsic component of organelle membrane	Cytoplasm
+Extrinsic component of phagophore assembly site membrane	Cytoplasm
+Extrinsic component of plasma membrane	Cell membrane
+Extrinsic component of postsynaptic density membrane	Synapse
+Extrinsic component of postsynaptic early endosome membrane	Synapse
+Extrinsic component of postsynaptic endosome membrane	Synapse
+Extrinsic component of postsynaptic membrane	Synapse
+Extrinsic component of postsynaptic specialization membrane	Synapse
+Extrinsic component of presynaptic endocytic zone membrane	Synapse
+Extrinsic component of presynaptic membrane	Synapse
+Extrinsic component of synaptic membrane	Synapse
+Extrinsic component of synaptic vesicle membrane	Synapse
+Extrinsic component of thylakoid membrane	Cytoplasm
+Extrinsic component of vacuolar membrane	Cytoplasm
+Eyespot apparatus	Cytoplasm
+F bouton	Cytoplasm
+F-actin capping protein complex	Cytoskeleton
+FACIT collagen trimer	Cytoplasm
+FACT complex	Cytoplasm
+FAL1-SGD1 complex	Cytoplasm
+FANCM-MHF complex	Cytoplasm
+Fanconi anaemia nuclear complex	Nucleus
+FAR/SIN/STRIPAK complex	Cytoplasm
+Fascia adherens	Cytoplasm
+Fatty acid beta-oxidation multienzyme complex	Cytoplasm
+Fatty acid elongase complex	Cytoplasm
+Fatty acid synthase complex	Cytoplasm
+fatty-acyl-CoA synthase complex	Cytoplasm
+Fc receptor complex	Cytoplasm
+Fc-alpha receptor I complex	Cytoplasm
+Fc-epsilon receptor I complex	Cytoplasm
+Fc-gamma receptor I complex	Cytoplasm
+Fc-gamma receptor III complex	Cytoplasm
+Female germ cell nucleus	Nucleus
+Female germline ring canal	Cytoplasm
+Female pronucleus	Nucleus
+Ferredoxin hydrogenase complex	Cytoplasm
+ferredoxin-thioredoxin reductase complex	Cytoplasm
+Ferritin complex	Cytoplasm
+Ferroxidase complex	Cytoplasm
+Fertilization envelope	Cytoplasm
+FHF complex	Cytoplasm
+Fibrillar center	Cytoplasm
+Fibrillar collagen trimer	Cytoplasm
+Fibrillary inclusion	Cytoplasm
+Fibrinogen complex	Cytoplasm
+Fibronectin fibril	Cytoplasm
+fibronectin-tissue transglutaminase complex	Cytoplasm
+ficolin-1-rich granule	Cytoplasm
+ficolin-1-rich granule lumen	Cytoplasm
+ficolin-1-rich granule membrane	Cytoplasm
+Filiform apparatus	Cytoplasm
+Filopodium	Filopodium
+Filopodium membrane	Filopodium
+Filopodium tip	Filopodium
+Filtration diaphragm	Cytoplasm
+Flagella connector	Cytoplasm
+Flagellum attachment zone	Cytoplasm
+Flemming body	Cytoplasm
+Flotillin complex	Cytoplasm
+FMN reductase complex	Cytoplasm
+FNIP-folliculin RagC/D GAP	Cytoplasm
+Focal adhesion	Focal adhesion
+follicle-stimulating hormone complex	Cytoplasm
+Food vacuole	Cytoplasm
+Foot layer	Cytoplasm
+Formate dehydrogenase complex	Cytoplasm
+formin-nucleated actin cable	Nucleus
+Free sarcoplasmic reticulum membrane	Sarcoplasm
+FtsBL complex	Cytoplasm
+FtsQBL complex	Cytoplasm
+Fumarate reductase complex	Cytoplasm
+Fungal biofilm matrix	Cytoplasm
+fungal-type cell wall	Cytoplasm
+fungal-type vacuole	Cytoplasm
+fungal-type vacuole membrane	Cytoplasm
+Fusiform vesicle	Cytoplasm
+Fusome	Cytoplasm
+G protein-coupled GABA receptor complex	Cytoplasm
+G protein-coupled receptor complex	Cytoplasm
+G protein-coupled receptor dimeric complex	Cytoplasm
+G protein-coupled receptor heterodimeric complex	Cytoplasm
+G protein-coupled receptor homodimeric complex	Cytoplasm
+G-protein beta/gamma-subunit complex	Cytoplasm
+GABA receptor complex	Cytoplasm
+GABA-A receptor complex	Cytoplasm
+GABA-ergic synapse	Synapse
+GAIT complex	Cytoplasm
+Galectin complex	Cytoplasm
+Galectin lattice	Cytoplasm
+Gamma DNA polymerase complex	Nucleus
+gamma-catenin-TCF7L2 complex	Cytoplasm
+gamma-delta T cell receptor complex	Cytoplasm
+gamma-secretase complex	Cytoplasm
+gamma-tubulin complex	Cytoplasm
+gamma-tubulin large complex	Cytoplasm
+gamma-tubulin small complex	Cytoplasm
+Gap junction	Gap junction
+GARP complex	Cytoplasm
+Gas vesicle	Cytoplasm
+Gas vesicle shell	Cytoplasm
+GATOR1 complex	Cytoplasm
+GATOR2 complex	Cytoplasm
+GBAF complex	Cytoplasm
+GCH1 complex	Cytoplasm
+Gemin3-Gemin4-Gemin5 complex	Gem
+Gemin6-Gemin7-unrip complex	Gem
+Gemini of coiled bodies	Gem
+Gemmule	Gem
+Generative cell nucleus	Nucleus
+Germ cell nucleus	Nucleus
+Germ plasm	Cytoplasm
+Germ tube	Cytoplasm
+Germinal vesicle	Cytoplasm
+Germline ring canal	Cytoplasm
+Gerontoplast	Cytoplasm
+GET complex	Cytoplasm
+Giant axon	Axon
+GID complex	Cytoplasm
+Gin4 complex	Cytoplasm
+GINS complex	Cytoplasm
+GLI-SUFU complex	Cytoplasm
+Glial cell projection	Cell projection
+Glial cytoplasmic inclusion	Cytoplasm
+Glial filament	Cytoplasm
+Glial limiting end-foot	Cytoplasm
+Glomerular endothelium fenestra	Cytoplasm
+Glucose transporter complex	Cytoplasm
+glucose-1-phosphate adenylyltransferase complex	Cytoplasm
+Glucosidase complex	Cytoplasm
+Glucosidase II complex	Cytoplasm
+Glutamate decarboxylase complex	Cytoplasm
+Glutamate dehydrogenase complex	Cytoplasm
+Glutamate synthase complex	Cytoplasm
+Glutamate synthase complex (NADPH)	Cytoplasm
+glutamate-cysteine ligase complex	Cytoplasm
+glutamate-tRNA ligase complex	Cytoplasm
+Glutamatergic postsynaptic density	Synapse
+Glutamatergic synapse	Synapse
+Glutaminase complex	Cytoplasm
+glutamyl-tRNA(Gln) amidotransferase complex	Cytoplasm
+Glutathione hydrolase complex	Cytoplasm
+Glutathione synthase complex	Cytoplasm
+glycerol-3-phosphate dehydrogenase complex	Cytoplasm
+glycerol-3-phosphate-transporting ATPase complex	Cytoplasm
+Glycine cleavage complex	Cytoplasm
+Glycine reductase complex	Cytoplasm
+glycine-gated chloride channel complex	Cytoplasm
+glycine-tRNA ligase complex	Cytoplasm
+Glycinergic synapse	Synapse
+Glycocalyx	Cytoplasm
+Glycogen granule	Cytoplasm
+Glycolate oxidase complex	Cytoplasm
+Glycoprotein Ib-IX-V complex	Cytoplasm
+Glycoprotein network	Cytoplasm
+Glycosome	Cytoplasm
+Glycosome lumen	Cytoplasm
+Glycosome membrane	Glycosome membrane
+glycosylphosphatidylinositol-mannosyltransferase I complex	Cytoplasm
+glycosylphosphatidylinositol-mannosyltransferase II complex	Cytoplasm
+glycosylphosphatidylinositol-N-acetylglucosaminyltransferase (GPI-GnT) complex	Cytoplasm
+Glyoxysomal membrane	Cytoplasm
+Glyoxysome	Cytoplasm
+GMP reductase complex	Cytoplasm
+GO:0000118	Cytoplasm
+GO:0000120	Cytoplasm
+GO:0000151	Cytoplasm
+GO:0000307	Cytoplasm
+GO:0000786	Cytoplasm
+GO:0000803	Cytoplasm
+GO:0000805	Cytoplasm
+GO:0000806	Cytoplasm
+GO:0005623	Cytoplasm
+GO:0005667	Cytoplasm
+GO:0005849	Cytoplasm
+GO:0005875	Cytoplasm
+GO:0005942	Cytoplasm
+GO:0005965	Cytoplasm
+GO:0008023	Cytoplasm
+GO:0008091	Cytoplasm
+GO:0016459	Cytoplasm
+GO:0017053	Cytoplasm
+GO:0030014	Cytoplasm
+GO:0031372	Cytoplasm
+GO:0031588	Cytoplasm
+GO:0031941	Cytoplasm
+GO:0031975	Cytoplasm
+GO:0032300	Cytoplasm
+GO:0032993	Cytoplasm
+GO:0035097	Cytoplasm
+GO:0042603	Cytoplasm
+GO:0043235	Cytoplasm
+GO:0043657	Cytoplasm
+GO:0044424	Cytoplasm
+GO:0044444	Cytoplasm
+GO:0044464	Cytoplasm
+GO:0070069	Cytoplasm
+GO:0090575	Cytoplasm
+GO:0098666	Cytoplasm
+GO:1902494	Cytoplasm
+GO:1990329	Cytoplasm
+Goblet cell theca	Cytoplasm
+Golgi apparatus	Golgi apparatus
+Golgi apparatus subcompartment	Golgi apparatus
+Golgi cis cisterna	Golgi apparatus
+Golgi cis cisterna membrane	Golgi apparatus
+Golgi cisterna	Golgi apparatus
+Golgi cisterna membrane	Golgi apparatus
+Golgi lumen	Golgi apparatus
+Golgi medial cisterna	Golgi apparatus
+Golgi medial cisterna membrane	Golgi apparatus
+Golgi membrane	Golgi apparatus
+Golgi stack	Golgi stack
+Golgi trans cisterna	Golgi apparatus
+Golgi trans cisterna membrane	Golgi apparatus
+Golgi transport complex	Golgi apparatus
+Golgi-associated vesicle	Golgi apparatus
+Golgi-associated vesicle lumen	Golgi apparatus
+Golgi-associated vesicle membrane	Golgi apparatus
+GPI-anchor transamidase complex	Cytoplasm
+Granular component	Cytoplasm
+Granular vesicle	Cytoplasm
+Granulocyte macrophage colony-stimulating factor receptor complex	Cytoplasm
+Granum	Cytoplasm
+Grb2-EGFR complex	Cytoplasm
+Grb2-Shc complex	Cytoplasm
+Grb2-SHP-2 complex	Cytoplasm
+Grb2-Sos complex	Cytoplasm
+GroEL-GroES complex	Cytoplasm
+Growing cell tip	Cytoplasm
+Growth cone	Growth cone
+Growth cone filopodium	Growth cone
+Growth cone lamellipodium	Growth cone
+Growth cone leading edge	Growth cone
+Growth cone membrane	Growth cone
+Growth factor complex	Cytoplasm
+Growth hormone receptor complex	Cytoplasm
+GTPase activator complex	Cytoplasm
+GTPase complex	Cytoplasm
+Gtr1-Gtr2 GTPase complex	Cytoplasm
+guanyl-nucleotide exchange factor complex	Nucleus
+Guanylate cyclase complex, soluble	Cytoplasm
+Gut granule	Cytoplasm
+Gut granule membrane	Cytoplasm
+GW body	Cytoplasm
+H zone	H zone
+H-gal-GP complex	Cytoplasm
+H-NS complex	Cytoplasm
+H-NS-Hha complex	Cytoplasm
+H3 histone acetyltransferase complex	Cytoplasm
+H4 histone acetyltransferase complex	Cytoplasm
+H4/H2A histone acetyltransferase complex	Cytoplasm
+Half bridge of spindle pole body	Cytoplasm
+haptoglobin-hemoglobin complex	Cytoplasm
+HAUS complex	Cytoplasm
+Haustorium	Cytoplasm
+HCN channel complex	Cytoplasm
+Hda-beta clamp complex	Cytoplasm
+HDA1 complex	Cytoplasm
+Heavy chain immunoglobulin complex	Cytoplasm
+Hechtian strand	Cytoplasm
+Hedgehog signaling complex	Cytoplasm
+Hemicellulose network	Cytoplasm
+Hemidesmosome	Hemidesmosome
+Hemidesmosome associated protein complex	Desmosome
+Hemoglobin complex	Cytoplasm
+Heparanase complex	Cytoplasm
+Herring body	Cytoplasm
+Heterochromatin	Nucleus
+Heterochromatin domain	Nucleus
+Heterochromatin island	Nucleus
+Heteromeric SMAD protein complex	Cytoplasm
+Heterotetrameric decaprenyl diphosphate synthase complex	Cytoplasm
+Heterotrimeric G-protein complex	Cytoplasm
+Hexameric IgM immunoglobulin complex	Cytoplasm
+HFE-transferrin receptor complex	Cytoplasm
+HICS complex	Cytoplasm
+high-affinity iron permease complex	Cytoplasm
+high-density lipoprotein particle	Cytoplasm
+Hinge region between urothelial plaques of apical plasma membrane	Apical cell membrane
+Hippocampal mossy fiber	Cytoplasm
+Hippocampal mossy fiber expansion	Cytoplasm
+Hippocampal mossy fiber to CA3 synapse	Synapse
+HIR complex	Cytoplasm
+histamine-gated chloride channel complex	Cytoplasm
+Histone acetyltransferase complex	Cytoplasm
+Histone H3-containing nucleosome	Nucleus
+Histone H3-K14 acetyltransferase complex	Cytoplasm
+Histone locus body	Cytoplasm
+Histone mRNA stem-loop binding complex	Cytoplasm
+Histone pre-mRNA 3'end processing complex	Cytoplasm
+Holliday junction helicase complex	Cytoplasm
+Holliday junction resolvase complex	Cytoplasm
+Homodimeric serine palmitoyltransferase complex	Cytoplasm
+Homomeric SMAD protein complex	Cytoplasm
+HOPS complex	Cytoplasm
+horsetail-astral microtubule array	Cytoskeleton
+Host cellular component	Cytoplasm
+Host extracellular space	Extracellular space
+host-symbiont bicellular tight junction	Tight junction
+Hrd1p ubiquitin ligase complex	Cytoplasm
+Hrd1p ubiquitin ligase ERAD-L complex	Cytoplasm
+HslUV protease complex	Cytoplasm
+HSP90-CDC37 chaperone complex	Cytoplasm
+HU-DNA complex	Nucleus
+HULC complex	Cytoplasm
+Hyaline inclusion	Cytoplasm
+Hyaline layer	Cytoplasm
+Hyaluranon cable	Cytoplasm
+Hydrogenosomal membrane	Cytoplasm
+Hydrogenosome	Hydrogenosome
+Hydroxyisourate hydrolase complex	Cytoplasm
+Hyphal cell wall	Cytoplasm
+Hyphal septin ring	Cytoplasm
+Hyphal tip	Cytoplasm
+Hypolemmal cisterna	Cytoplasm
+I band	I band
+i-AAA complex	Cytoplasm
+I-kappaB/NF-kappaB complex	Cytoplasm
+I(KACh) inward rectifier potassium channel complex	Cytoplasm
+IgA B cell receptor complex	Cytoplasm
+IgA immunoglobulin complex	Cytoplasm
+IgA immunoglobulin complex, circulating	Cytoplasm
+IgD B cell receptor complex	Cytoplasm
+IgD immunoglobulin complex	Cytoplasm
+IgD immunoglobulin complex, GPI-anchored	Cytoplasm
+IgE B cell receptor complex	Cytoplasm
+IgE immunoglobulin complex	Cytoplasm
+IgG B cell receptor complex	Cytoplasm
+IgG immunoglobulin complex	Cytoplasm
+IgG immunoglobulin complex, circulating	Cytoplasm
+IgM B cell receptor complex	Cytoplasm
+IgM immunoglobulin complex	Cytoplasm
+IgM immunoglobulin complex, circulating	Cytoplasm
+IgW immunoglobulin complex	Cytoplasm
+IgY immunoglobulin complex	Cytoplasm
+IgZ immunoglobulin complex	Cytoplasm
+IHF-DNA complex	Nucleus
+IkappaB kinase complex	Cytoplasm
+IKKalpha-IKKalpha complex	Cytoplasm
+imidazoleglycerol-phosphate synthase complex	Cytoplasm
+Immunoglobulin complex	Cytoplasm
+Immunoglobulin complex, circulating	Cytoplasm
+Immunological synapse	Synapse
+INA complex	Cytoplasm
+Inactive sex chromosome	Nucleus
+inaD signaling complex	Cytoplasm
+Inclusion body	Cytoplasm
+Inflammasome complex	Cytoplasm
+Inhibin A complex	Cytoplasm
+Inhibin B complex	Cytoplasm
+Inhibin complex	Cytoplasm
+inhibin-betaglycan-ActRII complex	Cytoplasm
+Inhibitory neuromuscular junction	Cytoplasm
+Inhibitory synapse	Synapse
+Inner acrosomal membrane	Cytoplasm
+Inner dense plaque of desmosome	Desmosome
+Inner dynein arm	Cytoplasm
+Inner kinetochore	Cytoplasm
+Inner membrane pellicle complex	Cytoplasm
+Inner mitochondrial membrane protein complex	Mitochondrion
+Inner mucus layer	Cytoplasm
+Ino80 complex	Cytoplasm
+INO80-type complex	Cytoplasm
+iNOS-S100A8/A9 complex	Cytoplasm
+Inositol phosphoceramide synthase complex	Cytoplasm
+Insulin control element activator complex	Cytoplasm
+Insulin receptor complex	Cytoplasm
+insulin-like growth factor binary complex	Cytoplasm
+insulin-like growth factor binding protein complex	Cytoplasm
+insulin-like growth factor ternary complex	Cytoplasm
+insulin-responsive compartment	Cytoplasm
+Integral component of autophagosome membrane	Autophagosome membrane
+Integral component of cell outer membrane	Cytoplasm
+Integral component of chloroplast inner membrane	Cytoplasm
+Integral component of cytoplasmic side of endoplasmic reticulum membrane	Endoplasmic reticulum
+Integral component of endoplasmic reticulum membrane	Endoplasmic reticulum
+Integral component of external side of plasma membrane	Cell membrane
+Integral component of Golgi medial cisterna membrane	Golgi apparatus
+Integral component of Golgi membrane	Golgi apparatus
+Integral component of lumenal side of endoplasmic reticulum membrane	Endoplasmic reticulum
+Integral component of lysosomal membrane	Lysosome
+Integral component of membrane	Cytoplasm
+Integral component of mitochondrial inner membrane	Mitochondrion
+Integral component of mitochondrial membrane	Mitochondrion
+Integral component of mitochondrial outer membrane	Mitochondrion
+Integral component of mycolate outer membrane	Cytoplasm
+Integral component of neuronal dense core vesicle membrane	Cytoplasm
+Integral component of nuclear inner membrane	Nucleus
+Integral component of organelle membrane	Cytoplasm
+Integral component of peroxisomal membrane	Peroxisome
+Integral component of plasma membrane	Cell membrane
+Integral component of plastid inner membrane	Cytoplasm
+Integral component of plastid membrane	Cytoplasm
+Integral component of postsynaptic density membrane	Synapse
+Integral component of postsynaptic membrane	Synapse
+Integral component of postsynaptic specialization membrane	Synapse
+Integral component of presynaptic active zone membrane	Synapse
+Integral component of presynaptic membrane	Synapse
+Integral component of synaptic membrane	Synapse
+Integral component of synaptic vesicle membrane	Synapse
+Integral component of the cytoplasmic side of the plasma membrane	Cell membrane
+Integral component of vacuolar membrane	Cytoplasm
+Integrator complex	Cytoplasm
+Integrin alpha1-beta1 complex	Cytoplasm
+Integrin alpha10-beta1 complex	Cytoplasm
+Integrin alpha11-beta1 complex	Cytoplasm
+Integrin alpha2-beta1 complex	Cytoplasm
+Integrin alpha3-beta1 complex	Cytoplasm
+Integrin alpha4-beta1 complex	Cytoplasm
+Integrin alpha4-beta7 complex	Cytoplasm
+Integrin alpha5-beta1 complex	Cytoplasm
+Integrin alpha6-beta1 complex	Cytoplasm
+Integrin alpha6-beta4 complex	Cytoplasm
+Integrin alpha7-beta1 complex	Cytoplasm
+Integrin alpha8-beta1 complex	Cytoplasm
+Integrin alpha9-beta1 complex	Cytoplasm
+Integrin alphaD-beta2 complex	Cytoplasm
+Integrin alphaE-beta7 complex	Cytoplasm
+Integrin alphaIIb-beta3 complex	Cytoplasm
+Integrin alphaL-beta2 complex	Cytoplasm
+Integrin alphaM-beta2 complex	Cytoplasm
+Integrin alphav-beta1 complex	Cytoplasm
+Integrin alphav-beta3 complex	Cytoplasm
+Integrin alphav-beta5 complex	Cytoplasm
+Integrin alphav-beta6 complex	Cytoplasm
+Integrin alphav-beta8 complex	Cytoplasm
+Integrin alphaX-beta2 complex	Cytoplasm
+Integrin complex	Cytoplasm
+Intercalary heterochromatin	Nucleus
+Intercalated disc	Cytoplasm
+Intercellular bridge	Cytoplasm
+Intercellular canaliculus	Cytoplasm
+Interchromatin granule	Nucleus
+Interferon regulatory factor 3 complex	Cytoplasm
+Interferon regulatory factor 3-interferon regulatory factor 5 complex	Cytoplasm
+Interferon regulatory factor 3-interferon regulatory factor 7 complex	Cytoplasm
+Interferon regulatory factor 5 complex	Cytoplasm
+Interferon regulatory factor 7 complex	Cytoplasm
+Interferon regulatory factor complex	Cytoplasm
+interleukin-1 receptor complex	Cytoplasm
+interleukin-10 receptor complex	Cytoplasm
+interleukin-12 complex	Cytoplasm
+interleukin-12 receptor complex	Cytoplasm
+interleukin-12-interleukin-12 receptor complex	Cytoplasm
+interleukin-13 receptor complex	Cytoplasm
+interleukin-15 receptor complex	Cytoplasm
+interleukin-18 receptor complex	Cytoplasm
+interleukin-2 receptor complex	Cytoplasm
+interleukin-20 receptor complex	Cytoplasm
+interleukin-23 complex	Cytoplasm
+interleukin-23 receptor complex	Cytoplasm
+interleukin-27 complex	Cytoplasm
+interleukin-28 receptor complex	Cytoplasm
+interleukin-3 receptor complex	Cytoplasm
+interleukin-35 complex	Cytoplasm
+interleukin-4 receptor complex	Cytoplasm
+interleukin-5 receptor complex	Cytoplasm
+interleukin-6 receptor complex	Cytoplasm
+interleukin-7 receptor complex	Cytoplasm
+interleukin-9 receptor complex	Cytoplasm
+interleukin4-interleukin-4 receptor complex	Cytoplasm
+Intermediate filament	Cytoplasm
+Intermediate filament cytoskeleton	Cytoskeleton
+intermediate-density lipoprotein particle	Cytoplasm
+Internode region of axon	Axon
+Interphase microtubule organizing center	Cytoskeleton
+Interphotoreceptor matrix	Cytoplasm
+Interstitial matrix	Cytoplasm
+Intine	Cytoplasm
+Intracellular anatomical structure	Cytoplasm
+Intracellular canaliculus	Cytoplasm
+Intracellular cyclic nucleotide activated cation channel complex	Nucleus
+Intracellular ferritin complex	Cytoplasm
+Intracellular immature spore	Cytoplasm
+Intracellular membrane-bounded organelle	Cytoplasm
+Intracellular non-membrane-bounded organelle	Cytoplasm
+Intracellular organelle	Cytoplasm
+Intracellular organelle lumen	Cytoplasm
+Intracellular vesicle	Cytoplasm
+Intraciliary transport particle	Cytoplasm
+Intraciliary transport particle A	Cytoplasm
+Intraciliary transport particle B	Cytoplasm
+Intraconoid microtubule	Cytoskeleton
+Intramolecular phosphotransferase complex	Cytoplasm
+Intranuclear rod	Nucleus
+Intrinsic component of autophagosome membrane	Autophagosome membrane
+Intrinsic component of cell outer membrane	Cytoplasm
+Intrinsic component of chloroplast inner membrane	Cytoplasm
+Intrinsic component of chloroplast outer membrane	Cytoplasm
+Intrinsic component of dense core granule membrane	Cytoplasm
+Intrinsic component of endoplasmic reticulum membrane	Endoplasmic reticulum
+Intrinsic component of external side of cell outer membrane	Cytoplasm
+Intrinsic component of external side of plasma membrane	Cell membrane
+Intrinsic component of Golgi medial cisterna membrane	Golgi apparatus
+Intrinsic component of Golgi membrane	Golgi apparatus
+Intrinsic component of membrane	Cytoplasm
+Intrinsic component of mitochondrial inner membrane	Mitochondrion
+Intrinsic component of mitochondrial membrane	Mitochondrion
+Intrinsic component of mitochondrial outer membrane	Mitochondrion
+Intrinsic component of mycolate outer membrane	Cytoplasm
+Intrinsic component of neuronal dense core vesicle membrane	Cytoplasm
+Intrinsic component of nuclear inner membrane	Nucleus
+Intrinsic component of nuclear outer membrane	Nucleus
+Intrinsic component of organelle membrane	Cytoplasm
+Intrinsic component of periplasmic side of cell outer membrane	Cytoplasm
+Intrinsic component of peroxisomal membrane	Peroxisome
+Intrinsic component of plasma membrane	Cell membrane
+Intrinsic component of plastid inner membrane	Cytoplasm
+Intrinsic component of plastid membrane	Cytoplasm
+Intrinsic component of plastid outer membrane	Cytoplasm
+Intrinsic component of postsynaptic density membrane	Synapse
+Intrinsic component of postsynaptic membrane	Synapse
+Intrinsic component of postsynaptic specialization membrane	Synapse
+Intrinsic component of presynaptic active zone membrane	Synapse
+Intrinsic component of presynaptic membrane	Synapse
+Intrinsic component of synaptic membrane	Synapse
+Intrinsic component of synaptic vesicle membrane	Synapse
+Intrinsic component of the cytoplasmic side of the plasma membrane	Cell membrane
+Intrinsic component of vacuolar membrane	Cytoplasm
+Invertasome	Cytoplasm
+Investment cone	Cytoplasm
+Inward rectifier potassium channel complex	Cytoplasm
+Inward rectifying potassium channel	Cytoplasm
+Ion channel complex	Cytoplasm
+Ionotropic glutamate receptor complex	Cytoplasm
+IPAF inflammasome complex	Cytoplasm
+Ire1 complex	Cytoplasm
+IRE1-RACK1-PP2A complex	Cytoplasm
+IRE1-TRAF2-ASK1 complex	Cytoplasm
+Iridosome	Cytoplasm
+iron-sulfur cluster assembly complex	Cytoplasm
+iron-sulfur cluster transfer complex	Cytoplasm
+ISGF3 complex	Cytoplasm
+Isoamylase complex	Cytoplasm
+Isocitrate dehydrogenase complex (NAD+)	Cytoplasm
+Isw1 complex	Cytoplasm
+Isw1a complex	Cytoplasm
+Isw1b complex	Cytoplasm
+ISWI-type complex	Cytoplasm
+Junctional membrane complex	Cytoplasm
+Junctional sarcoplasmic reticulum membrane	Sarcoplasm
+Juxtaparanode region of axon	Axon
+Kainate selective glutamate receptor complex	Cytoplasm
+Karyomere	Cytoplasm
+Katanin complex	Cytoplasm
+Kelch-containing formin regulatory complex	Cytoplasm
+Keratin filament	Cytoplasm
+Keratohyalin granule	Cytoplasm
+Kibra-Ex-Mer complex	Cytoplasm
+KICSTOR complex	Cytoplasm
+Kinesin complex	Cytoplasm
+Kinesin I complex	Cytoplasm
+Kinesin II complex	Cytoplasm
+Kinetochore	Cytoplasm
+Kinetochore microtubule	Cytoskeleton
+Kinetoplast	Cytoplasm
+Kinociliary basal body	Cytoplasm
+Kinocilium	Cilium
+Kir2 inward rectifier potassium channel complex	Cytoplasm
+Ku-DNA ligase complex	Nucleus
+Ku70:Ku80 complex	Cytoplasm
+Kv4.2-KChIP2 channel complex	Cytoplasm
+Kv4.3-KChIP1 channel complex	Cytoplasm
+L-cysteine desulfurase complex	Cytoplasm
+L-type voltage-gated calcium channel complex	Cytoplasm
+Lamellar body	Cytoplasm
+Lamellar body membrane	Cytoplasm
+Lamellipodium	Cytoplasm
+Lamellipodium membrane	Cytoplasm
+Lamin filament	Cytoplasm
+Laminated body	Cytoplasm
+Laminin complex	Cytoplasm
+laminin-1 complex	Cytoplasm
+laminin-10 complex	Cytoplasm
+laminin-11 complex	Cytoplasm
+laminin-12 complex	Cytoplasm
+laminin-14 complex	Cytoplasm
+laminin-15 complex	Cytoplasm
+laminin-2 complex	Cytoplasm
+laminin-3 complex	Cytoplasm
+laminin-4 complex	Cytoplasm
+laminin-5 complex	Cytoplasm
+laminin-522 complex	Cytoplasm
+laminin-5B complex	Cytoplasm
+laminin-6 complex	Cytoplasm
+laminin-7 complex	Cytoplasm
+laminin-8 complex	Cytoplasm
+laminin-9 complex	Cytoplasm
+Large latent transforming growth factor-beta complex	Cytoplasm
+Large ribosomal subunit	Cytoplasm
+Larval serum protein complex	Cytoplasm
+Las1 complex	Cytoplasm
+Late endosome	Late endosome
+Late endosome lumen	Late endosome
+Late endosome membrane	Late endosome membrane
+Late recombination nodule	Cytoplasm
+Lateral cell cortex	Cell cortex
+Lateral cortical node	Cytoplasm
+Lateral element	Cytoplasm
+Lateral loop	Cytoplasm
+Lateral part of cell	Cytoplasm
+Lateral plasma membrane	Cell membrane
+Lateral shield	Cytoplasm
+Lateral wall of outer hair cell	Cytoplasm
+Leading edge membrane	Cytoplasm
+Leading edge of axonal growth cone	Axon
+Leading edge of lamellipodium	Cytoplasm
+Leaf papilla	Cytoplasm
+Leaflet of membrane bilayer	Cytoplasm
+Left anterior flagellum	Cytoplasm
+Left caudal flagellum	Cytoplasm
+Left nucleus	Nucleus
+Left tetrad	Cytoplasm
+Leucoplast	Cytoplasm
+Leucoplast stroma	Cytoplasm
+Leucosome	Cytoplasm
+Lewy body	Cytoplasm
+Lewy body core	Cytoplasm
+Lewy body corona	Cytoplasm
+Lewy body-like hyaline inclusion	Cytoplasm
+Lewy neurite	Cytoplasm
+Lid2 complex	Cytoplasm
+light-harvesting complex, core complex	Cytoplasm
+light-harvesting complex, peripheral complex	Cytoplasm
+Lignin network	Cytoplasm
+LinE complex	Cytoplasm
+Linear element	Cytoplasm
+Lipid droplet	Lipid droplet
+Lipopolysaccharide receptor complex	Cytoplasm
+Lipopolysaccharide transport system	Cytoplasm
+Longitudinal flagellum	Cytoplasm
+Longitudinal sarcoplasmic reticulum	Sarcoplasm
+Longitudinal side of cell surface	Cell surface
+low-density lipoprotein particle	Cytoplasm
+low-density lipoprotein receptor complex	Cytoplasm
+Lower tip-link density	Cytoplasm
+Lsd1/2 complex	Cytoplasm
+Lsm1-7-Pat1 complex	Cytoplasm
+Lsm2-8 complex	Cytoplasm
+LUBAC complex	Cytoplasm
+Lumenal side of endoplasmic reticulum membrane	Endoplasmic reticulum
+Lumenal side of endosome membrane	Endosome membrane
+Lumenal side of late endosome membrane	Late endosome membrane
+Lumenal side of lysosomal membrane	Lysosome
+Lumenal side of membrane	Cytoplasm
+Luminal surveillance complex	Cytoplasm
+Lymphotoxin complex	Cytoplasm
+Lysosomal glycocalyx	Lysosome
+Lysosomal HOPS complex	Lysosome
+Lysosomal lumen	Lysosome
+Lysosomal matrix	Lysosome
+Lysosomal membrane	Lysosome
+Lysosomal multienzyme complex	Lysosome
+Lysosomal proton-transporting V-type ATPase complex	Lysosome
+Lysosome	Lysosome
+LYSP100-associated nuclear domain	Nucleus
+Lytic vacuole	Cytoplasm
+Lytic vacuole membrane	Cytoplasm
+Lytic vacuole within protein storage vacuole	Cytoplasm
+M band	Cytoplasm
+m-AAA complex	Cytoplasm
+M/G1 phase-specific MADS box-forkhead transcription factor complex	Cytoplasm
+MacAB-TolC complex	Cytoplasm
+Macrolide transmembrane transporter complex	Cytoplasm
+Macronucleus	Nucleus
+Macrophage migration inhibitory factor receptor complex	Cytoplasm
+Macropinocytic cup	Cytoplasm
+Macropinocytic cup membrane	Cytoplasm
+Macropinosome	Cytoplasm
+Mad-Max complex	Cytoplasm
+Mad-Max-mSin3A complex	Cytoplasm
+MAD1 complex	Cytoplasm
+Magnesium chelatase complex	Cytoplasm
+magnesium-dependent protein serine/threonine phosphatase complex	Cytoplasm
+Magnetosome	Cytoplasm
+Magnetosome lumen	Cytoplasm
+Magnetosome membrane	Cytoplasm
+Main axon	Axon
+Major mitochondrial derivative	Mitochondrion
+Male germ cell nucleus	Nucleus
+Male germline ring canal	Cytoplasm
+Male pronucleus	Nucleus
+MalFGK2 complex	Cytoplasm
+Maltose transport complex	Cytoplasm
+MAML1-RBP-Jkappa- ICN1 complex	Cytoplasm
+Manchette	Cytoplasm
+Mannan polymerase complex	Cytoplasm
+Mannan polymerase I complex	Cytoplasm
+Mannan polymerase II complex	Cytoplasm
+Mannosome	Cytoplasm
+mannosyl-oligosaccharide 1,2-alpha-mannosidase complex	Cytoplasm
+Mast cell granule	Cytoplasm
+Mastigoneme	Cytoplasm
+Mating projection	Cytoplasm
+Mating projection base	Cytoplasm
+Mating projection tip	Cytoplasm
+mating-type region heterochromatin	Nucleus
+Matrilin complex	Cytoplasm
+Matrix side of mitochondrial inner membrane	Mitochondrion
+Mature chylomicron	Cytoplasm
+mBAF complex	Cytoplasm
+MBF transcription complex	Cytoplasm
+MCM complex	Cytoplasm
+MCM core complex	Cytoplasm
+MCM8-MCM9 complex	Cytoplasm
+mCRD-mediated mRNA stability complex	Cytoplasm
+Mcs4 RR-MAPKKK complex	Cytoplasm
+MdtBC Complex	Cytoplasm
+MECO complex	Cytoplasm
+Medial cortex	Cytoplasm
+Medial cortical node	Cytoplasm
+Medial layer of collagen and cuticulin-based cuticle extracellular matrix	Extracellular space
+Median body	Cytoplasm
+Mediator complex	Cytoplasm
+Megasome	Cytoplasm
+Megasporocyte nucleus	Nucleus
+Mei2 nuclear dot complex	Nucleus
+Meiotic actomyosin contractile ring	Cytoplasm
+Meiotic cohesin complex	Cytoplasm
+Meiotic nuclear membrane microtubule tethering complex	Nucleus
+Meiotic recombination initiation complex	Cytoplasm
+Meiotic septin complex	Cytoplasm
+Meiotic spindle	Cytoplasm
+Meiotic spindle midzone	Cytoplasm
+Meiotic spindle pole	Cytoplasm
+Meiotic spindle pole body	Cytoplasm
+Melanosome	Melanosome
+Melanosome lumen	Melanosome
+Melanosome membrane	Melanosome membrane
+Membrane	Cytoplasm
+Membrane attack complex	Cytoplasm
+Membrane coat	Cytoplasm
+Membrane fusion priming complex	Cytoplasm
+Membrane microdomain	Cytoplasm
+Membrane raft	Cytoplasm
+Membrane stack	Cytoplasm
+membrane-bounded organelle	Cytoplasm
+membrane-enclosed lumen	Cytoplasm
+Meprin A complex	Cytoplasm
+Merozoite dense granule	Cytoplasm
+Mesaxon	Axon
+Mesosome	Cytoplasm
+Messenger ribonucleoprotein complex	Nucleus
+Metallochaperone complex	Cytoplasm
+Metaphase plate	Cytoplasm
+Methane monooxygenase complex	Cytoplasm
+methanol-CoM methyltransferase complex	Cytoplasm
+Methanophenazine reducing hydrogenase complex	Cytoplasm
+Methionine adenosyltransferase complex	Cytoplasm
+methionine-importing ABC transporter complex	Cytoplasm
+methionine-importing complex	Cytoplasm
+Methionyl glutamyl tRNA synthetase complex	Cytoplasm
+Methyl accepting chemotaxis protein complex	Cytoplasm
+Methyl coenzyme M reductase complex	Cytoplasm
+methyl-tetrahydromethanopterin:coenzyme M methyltransferase complex	Cytoplasm
+methylcrotonoyl-CoA carboxylase complex	Cytoplasm
+Methylosome	Cytoplasm
+MHC class I peptide loading complex	Cytoplasm
+MHC class I protein complex	Cytoplasm
+MHC class Ib protein complex	Cytoplasm
+MHC class II protein complex	Cytoplasm
+MHC protein complex	Cytoplasm
+MIB complex	Cytoplasm
+MICOS complex	Cytoplasm
+Microbody	Cytoplasm
+Microbody lumen	Cytoplasm
+Microbody membrane	Cytoplasm
+Microfibril	Cytoplasm
+Microneme	Cytoplasm
+Microneme lumen	Cytoplasm
+Microneme membrane	Microneme membrane
+Micronucleus	Nucleus
+micropexophagy-specific membrane apparatus	Cytoplasm
+Micropinosome	Cytoplasm
+Microprocessor complex	Cytoplasm
+Micropyle	Cytoplasm
+Microspike	Cytoplasm
+Microsporocyte nucleus	Nucleus
+Microtubule	Cytoskeleton
+Microtubule bundle	Cytoskeleton
+Microtubule cytoskeleton	Cytoskeleton
+Microtubule end	Cytoskeleton
+Microtubule minus-end	Cytoskeleton
+Microtubule organizing center	Microtubule organizing center
+Microtubule organizing center attachment site	Cytoskeleton
+Microtubule plus-end	Cytoskeleton
+Microvesicle	Cytoplasm
+Microvillar actin bundle	Cytoskeleton
+Microvillus	Microvillus
+Microvillus membrane	Microvillus
+Midbody	Cytoplasm
+Middle lamella	Cytoplasm
+Migrasome	Cytoplasm
+MIH complex	Cytoplasm
+MIM complex	Cytoplasm
+Minor mitochondrial derivative	Mitochondrion
+minus-end kinesin complex	Cytoplasm
+MIS12/MIND type complex	Cytoplasm
+Mis6-Sim4 complex	Cytoplasm
+mitochondria-associated endoplasmic reticulum membrane	Mitochondrion
+Mitochondrial alpha-ketoglutarate dehydrogenase complex	Mitochondrion
+Mitochondrial ATP-gated potassium channel complex	Mitochondrion
+Mitochondrial chromosome	Nucleus
+Mitochondrial cloud	Mitochondrion
+Mitochondrial creatine kinase complex	Mitochondrion
+Mitochondrial crista	Mitochondrion
+Mitochondrial crista junction	Mitochondrion
+Mitochondrial degradosome	Mitochondrion
+Mitochondrial derivative	Mitochondrion
+Mitochondrial DNA-directed RNA polymerase complex	Nucleus
+Mitochondrial electron transfer flavoprotein complex	Mitochondrion
+Mitochondrial endopeptidase Clp complex	Mitochondrion
+Mitochondrial envelope	Mitochondrion
+Mitochondrial fatty acid beta-oxidation multienzyme complex	Mitochondrion
+Mitochondrial inner boundary membrane	Mitochondrion
+Mitochondrial inner membrane	Mitochondrion
+Mitochondrial inner membrane assembly complex	Mitochondrion
+Mitochondrial inner membrane peptidase complex	Mitochondrion
+Mitochondrial inner-outer membrane contact site	Mitochondrion
+Mitochondrial intermembrane space	Mitochondrion
+Mitochondrial intermembrane space protein transporter complex	Mitochondrion
+Mitochondrial intracristal space	Mitochondrion
+Mitochondrial iron-sulfur cluster assembly complex	Mitochondrion
+Mitochondrial isocitrate dehydrogenase complex (NAD+)	Mitochondrion
+Mitochondrial large ribosomal subunit	Mitochondrion
+Mitochondrial matrix	Mitochondrion
+Mitochondrial membrane	Mitochondrion
+Mitochondrial mRNA editing complex	Mitochondrion
+Mitochondrial nucleoid	Nucleus
+Mitochondrial outer membrane	Mitochondrion
+Mitochondrial outer membrane translocase complex	Mitochondrion
+Mitochondrial oxoglutarate dehydrogenase complex	Mitochondrion
+Mitochondrial permeability transition pore complex	Mitochondrion
+Mitochondrial processing peptidase complex	Mitochondrion
+Mitochondrial prohibitin complex	Mitochondrion
+Mitochondrial proton-transporting ATP synthase complex	Mitochondrion
+Mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)	Mitochondrion
+Mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)	Mitochondrion
+Mitochondrial proton-transporting ATP synthase, catalytic core	Mitochondrion
+Mitochondrial proton-transporting ATP synthase, stator stalk	Mitochondrion
+Mitochondrial pyruvate dehydrogenase complex	Mitochondrion
+Mitochondrial respirasome	Mitochondrion
+Mitochondrial respiratory chain complex I	Mitochondrion
+Mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	Mitochondrion
+Mitochondrial respiratory chain complex III	Mitochondrion
+Mitochondrial respiratory chain complex IV	Mitochondrion
+Mitochondrial ribonuclease P complex	Nucleus
+Mitochondrial ribosome	Mitochondrion
+Mitochondrial small ribosomal subunit	Mitochondrion
+Mitochondrial tricarboxylic acid cycle enzyme complex	Mitochondrion
+Mitochondrion	Mitochondrion
+mitochondrion-associated adherens complex	Mitochondrion
+mitochondrion-derived vesicle	Mitochondrion
+Mitosome	Cytoplasm
+Mitotic actomyosin contractile ring	Cytoplasm
+Mitotic actomyosin contractile ring, intermediate layer	Cytoplasm
+Mitotic checkpoint complex	Cytoplasm
+Mitotic checkpoint complex, CDC20-MAD2 subcomplex	Cytoplasm
+Mitotic cohesin complex	Cytoplasm
+Mitotic nuclear membrane microtubule tethering complex	Nucleus
+Mitotic septin complex	Cytoplasm
+Mitotic spindle	Cytoplasm
+Mitotic spindle assembly checkpoint MAD1-MAD2 complex	Cytoplasm
+Mitotic spindle astral microtubule	Cytoskeleton
+Mitotic spindle astral microtubule end	Cytoskeleton
+Mitotic spindle microtubule	Cytoskeleton
+Mitotic spindle midzone	Cytoplasm
+Mitotic spindle polar microtubule	Cytoskeleton
+Mitotic spindle pole	Cytoplasm
+Mitotic spindle pole body	Cytoplasm
+MKS complex	Cytoplasm
+MLL1 complex	Cytoplasm
+MLL1/2 complex	Cytoplasm
+MLL3/4 complex	Cytoplasm
+MMXD complex	Cytoplasm
+ModE complex	Cytoplasm
+Molybdopterin cofactor (Moco) biosynthesis adenylyltransferase complex	Cytoplasm
+Molybdopterin synthase complex	Cytoplasm
+Mon1-Ccz1 complex	Cytoplasm
+monolayer-surrounded lipid storage body	Cytoplasm
+Monomeric IgA immunoglobulin complex	Cytoplasm
+Mononeme	Cytoplasm
+Monopolin complex	Cytoplasm
+Mossy fiber rosette	Cytoplasm
+Motile cilium	Cilium
+MOZ/MORF histone acetyltransferase complex	Cytoplasm
+MPF complex	Cytoplasm
+Mpp10 complex	Cytoplasm
+MPP7-DLG1-LIN7 complex	Cytoplasm
+MPT synthase complex	Cytoplasm
+Mre11 complex	Cytoplasm
+mRNA cap binding complex	Cytoplasm
+mRNA cap methyltransferase complex	Cytoplasm
+mRNA cleavage and polyadenylation specificity factor complex	Cytoplasm
+mRNA cleavage stimulating factor complex	Cytoplasm
+mRNA editing complex	Cytoplasm
+MsbA transporter complex	Cytoplasm
+MSL complex	Cytoplasm
+Mst2 histone acetyltransferase complex	Cytoplasm
+MTREC complex	Cytoplasm
+MUB1-RAD6-UBR2 ubiquitin ligase complex	Cytoplasm
+Mucin granule	Cytoplasm
+Mucocyst	Cytoplasm
+Mucus layer	Cytoplasm
+multi-eIF complex	Cytoplasm
+Multimeric ribonuclease P complex	Nucleus
+Multimerin complex	Cytoplasm
+Multiple synapse bouton	Synapse
+Multiple synapse bouton, contacting multiple dendrites	Synapse
+Multiple synapse bouton, contacting single dendrite	Synapse
+Multivesicular body	Multivesicular body
+Multivesicular body lumen	Multivesicular body
+Multivesicular body membrane	Multivesicular body membrane
+Multivesicular body, internal vesicle	Cytoplasm
+Multivesicular body, internal vesicle lumen	Cytoplasm
+Muscle cell projection	Cell projection
+Muscle cell projection membrane	Cell projection
+Muscle myosin complex	Cytoplasm
+Muscle tendon junction	Cytoplasm
+Muscle thin filament tropomyosin	Cytoplasm
+Mutator focus	Cytoplasm
+MutLalpha complex	Cytoplasm
+MutLbeta complex	Cytoplasm
+MutLgamma complex	Cytoplasm
+MutS complex	Cytoplasm
+MutSalpha complex	Cytoplasm
+MutSbeta complex	Cytoplasm
+MutSgamma complex	Cytoplasm
+MWP complex	Cytoplasm
+Myb complex	Cytoplasm
+Myc-Max complex	Cytoplasm
+Mycolate outer membrane	Cytoplasm
+Myelin sheath	Myelin membrane
+Myelin sheath abaxonal region	Axon
+Myelin sheath adaxonal region	Axon
+Myofibril	Myofibril
+Myofilament	Cytoplasm
+Myosin filament	Cytoplasm
+Myosin I complex	Cytoplasm
+Myosin II complex	Cytoplasm
+Myosin II filament	Cytoplasm
+Myosin III complex	Cytoplasm
+Myosin IV complex	Cytoplasm
+Myosin IX complex	Cytoplasm
+Myosin phosphatase complex	Cytoplasm
+Myosin V complex	Cytoplasm
+Myosin VI complex	Cytoplasm
+Myosin VII complex	Cytoplasm
+Myosin VIII complex	Cytoplasm
+Myosin X complex	Cytoplasm
+Myosin XI complex	Cytoplasm
+Myosin XII complex	Cytoplasm
+Myosin XIII complex	Cytoplasm
+Myosin XIV complex	Cytoplasm
+Myosin XV complex	Cytoplasm
+Myosin XVI complex	Cytoplasm
+Myosin XVII complex	Cytoplasm
+Myosin XVIII complex	Cytoplasm
+N-terminal protein acetyltransferase complex	Cytoplasm
+NAD(P)H dehydrogenase complex (plastoquinone)	Cytoplasm
+NADH dehydrogenase complex	Cytoplasm
+NADPH oxidase complex	Cytoplasm
+NAGS/NAGK complex	Cytoplasm
+NarGHI complex	Cytoplasm
+Nascent polypeptide-associated complex	Cytoplasm
+NatA complex	Cytoplasm
+NatB complex	Cytoplasm
+NatC complex	Cytoplasm
+nBAF complex	Cytoplasm
+Nbp35-Cfd1 ATPase complex	Cytoplasm
+Ndc80 complex	Cytoplasm
+Nebenkern	Cytoplasm
+Negative cofactor 2 complex	Cytoplasm
+NELF complex	Cytoplasm
+Nem1-Spo7 phosphatase complex	Cytoplasm
+Nematocyst	Cytoplasm
+Nematosome	Cytoplasm
+Nephrocyte diaphragm	Cytoplasm
+network-forming collagen trimer	Cytoplasm
+Neurofibrillary tangle	Cytoplasm
+Neurofilament	Cytoplasm
+Neurofilament cytoskeleton	Cytoskeleton
+Neuromuscular junction	Cytoplasm
+Neuromuscular junction of somatic muscle	Cytoplasm
+Neuron projection	Neuron projection
+Neuron projection branch point	Neuron projection
+Neuron projection cytoplasm	Cytoplasm
+Neuron projection membrane	Neuron projection
+Neuron projection terminus	Neuron projection
+Neuron spine	Dendritic spine
+Neuron to neuron synapse	Synapse
+Neuronal cell body	Cytoplasm
+Neuronal cell body membrane	Cytoplasm
+Neuronal dense core vesicle	Neuronal dense core vesicle
+Neuronal dense core vesicle lumen	Cytoplasm
+Neuronal dense core vesicle membrane	Neuronal dense core vesicle membrane
+Neuronal ribonucleoprotein granule	Nucleus
+Neurosecretory vesicle	Cytoplasm
+Neurotransmitter receptor complex	Cytoplasm
+Neutrophil extracellular trap	Extracellular space
+New cell pole	Cytoplasm
+New growing cell tip	Cytoplasm
+New mitotic spindle pole body	Cytoplasm
+Nexine	Cytoplasm
+NF-kappaB complex	Cytoplasm
+NF-kappaB p50/p65 complex	Cytoplasm
+Nicalin-NOMO complex	Cytoplasm
+Nitrate reductase complex	Cytoplasm
+nitric-oxide synthase complex	Cytoplasm
+Nitrogenase complex	Cytoplasm
+Nkx-2.5 complex	Cytoplasm
+NLRP1 inflammasome complex	Cytoplasm
+NLRP3 inflammasome complex	Cytoplasm
+NLRP6 inflammasome complex	Cytoplasm
+NLS-dependent protein nuclear import complex	Nucleus
+NMDA selective glutamate receptor complex	Cytoplasm
+NMS complex	Cytoplasm
+Noc complex	Cytoplasm
+Noc1p-Noc2p complex	Cytoplasm
+Noc2p-Noc3p complex	Cytoplasm
+Noc4p-Nop14p complex	Cytoplasm
+Nodal receptor complex	Cytoplasm
+Node of Ranvier	Paranodal septate junction
+non-growing cell tip	Cytoplasm
+non-membrane-bounded organelle	Cytoplasm
+non-motile cilium	Cilium
+non-motile cilium membrane	Cilium
+Nonhomologous end joining complex	Cytoplasm
+Noradrenergic synapse	Synapse
+NoRC complex	Cytoplasm
+NOS2-CD74 complex	Cytoplasm
+NOXA-BCL-2 complex	Cytoplasm
+NOXA-BCL-xl complex	Cytoplasm
+npBAF complex	Cytoplasm
+NPHP complex	Cytoplasm
+Nrd1 complex	Cytoplasm
+Nsk1-Dlc1 complex	Cytoplasm
+NSL complex	Cytoplasm
+NuA3 histone acetyltransferase complex	Cytoplasm
+NuA3b histone acetyltransferase complex	Cytoplasm
+NuA4 histone acetyltransferase complex	Cytoplasm
+Nuclear aryl hydrocarbon receptor complex	Nucleus
+Nuclear body	Nuclear body
+Nuclear cap binding complex	Nucleus
+Nuclear chromosome	Nucleus
+Nuclear cohesin complex	Nucleus
+Nuclear cyclin-dependent protein kinase holoenzyme complex	Nucleus
+Nuclear dicing body	Nucleus
+Nuclear DNA replication factor C complex	Nucleus
+Nuclear DNA-directed RNA polymerase complex	Nucleus
+Nuclear envelope	Nucleus
+Nuclear envelope adjacent to nuclear pore complex	Nucleus
+Nuclear envelope lumen	Nucleus
+Nuclear exosome (RNase complex)	Nucleus
+Nuclear exosome focus	Nucleus
+Nuclear exosome targeting complex	Nucleus
+Nuclear inclusion body	Nucleus
+Nuclear inner membrane	Nucleus
+Nuclear lamina	Nucleus
+Nuclear lumen	Nucleus
+Nuclear matrix	Nucleus
+Nuclear meiotic cohesin complex	Nucleus
+Nuclear membrane	Nucleus
+Nuclear membrane microtubule tethering complex	Nucleus
+Nuclear membrane protein complex	Nucleus
+Nuclear microtubule	Nucleus
+Nuclear MIS12/MIND complex	Nucleus
+Nuclear origin of replication recognition complex	Nucleus
+Nuclear outer membrane	Nucleus
+Nuclear outer membrane-endoplasmic reticulum membrane network	Nucleus
+Nuclear periphery	Nucleus
+Nuclear pore	Nucleus
+Nuclear pore central transport channel	Nucleus
+Nuclear pore cytoplasmic filaments	Nucleus
+Nuclear pore inner ring	Nucleus
+Nuclear pore linkers	Nucleus
+Nuclear pore nuclear basket	Nucleus
+Nuclear pore outer ring	Nucleus
+Nuclear pore transmembrane ring	Nucleus
+Nuclear pre-replicative complex	Nucleus
+Nuclear proteasome complex	Nucleus
+Nuclear replication fork	Nucleus
+Nuclear replisome	Nucleus
+Nuclear RNA export factor complex	Nucleus
+Nuclear RNA-directed RNA polymerase complex	Nucleus
+Nuclear SCF ubiquitin ligase complex	Nucleus
+Nuclear speck	Nucleus
+Nuclear stress granule	Nucleus
+Nuclear telomere cap complex	Nucleus
+Nucleoid	Nucleus
+Nucleolar chromatin	Nucleus
+Nucleolar exosome (RNase complex)	Nucleus
+Nucleolar preribosome	Nucleus
+Nucleolar ribonuclease P complex	Nucleus
+Nucleolar ring	Nucleus
+Nucleolus	Nucleolus
+Nucleolus organizer region	Nucleus
+nucleolus-associated heterochromatin	Nucleus
+nucleolus-like body	Nucleus
+Nucleomorph	Nucleus
+Nucleoplasm	Nucleoplasm
+Nucleoplasmic periphery of the nuclear pore complex	Nucleus
+Nucleoplasmic reticulum	Nucleus
+Nucleoplasmic side of nuclear pore	Nucleus
+Nucleoplasmic THO complex	Nucleus
+Nucleosomal methylation activator complex	Nucleus
+Nucleosome disassembly/reassembly complex	Nucleus
+nucleotide-excision repair factor 1 complex	Nucleus
+nucleotide-excision repair factor 2 complex	Nucleus
+nucleotide-excision repair factor 3 complex	Nucleus
+nucleotide-excision repair factor 4 complex	Nucleus
+nucleotide-excision repair, preincision complex	Nucleus
+Nucleus	Nucleus
+Nucleus leading edge	Nucleus
+nucleus-vacuole junction	Nucleus
+NuRD complex	Cytoplasm
+NURF complex	Cytoplasm
+NVT complex	Cytoplasm
+Ocelloid	Cytoplasm
+Old cell pole	Cytoplasm
+Old mitotic spindle pole body	Cytoplasm
+Oligosaccharyltransferase complex	Cytoplasm
+Oligosaccharyltransferase I complex	Cytoplasm
+Omega speckle	Cytoplasm
+Omegasome	Cytoplasm
+Omegasome membrane	Cytoplasm
+oncostatin-M receptor complex	Cytoplasm
+Ooplasm	Cytoplasm
+Oral apparatus	Cytoplasm
+Organellar chromatophore	Organellar chromatophore
+Organellar large ribosomal subunit	Cytoplasm
+Organellar ribosome	Cytoplasm
+Organellar small ribosomal subunit	Cytoplasm
+Organelle	Cytoplasm
+Organelle envelope	Cytoplasm
+Organelle envelope lumen	Cytoplasm
+Organelle inner membrane	Cytoplasm
+Organelle lumen	Cytoplasm
+Organelle membrane	Cytoplasm
+Organelle membrane contact site	Cytoplasm
+Organelle outer membrane	Cytoplasm
+Organelle subcompartment	Cytoplasm
+organelle-enclosing lipid monolayer	Cytoplasm
+Origin recognition complex	Cytoplasm
+Ornithine carbamoyltransferase complex	Cytoplasm
+Orthogonal array	Cytoplasm
+Osmiophilic body	Cytoplasm
+Ost-alpha/Ost-beta complex	Cytoplasm
+Other organism cell membrane	Cell membrane
+Other organism part	Cytoplasm
+Outer acrosomal membrane	Cytoplasm
+Outer dense fiber	Cytoplasm
+Outer dense plaque of desmosome	Desmosome
+Outer dynein arm	Cytoplasm
+Outer dynein arm docking complex	Cytoplasm
+Outer endospore membrane	Cytoplasm
+Outer kinetochore	Cytoplasm
+Outer membrane	Cytoplasm
+Outer membrane protein complex	Cytoplasm
+Outer membrane-bounded periplasmic space	Cytoplasm
+Outer mitochondrial membrane protein complex	Mitochondrion
+Outer mucus layer	Cytoplasm
+Oxidoreductase complex	Cytoplasm
+Oxoglutarate dehydrogenase complex	Cytoplasm
+P granule	Cytoplasm
+P-body	P-body
+P-TEFb complex	Cytoplasm
+P-TEFb-cap methyltransferase complex	Cytoplasm
+Pairing center	Cytoplasm
+Palmitoyltransferase complex	Cytoplasm
+PAM complex, Tim23 associated import motor	Cytoplasm
+PAN complex	Cytoplasm
+PAR polarity complex	Cytoplasm
+Paraferritin complex	Cytoplasm
+Paraflagellar rod	Cytoplasm
+Parallel actin filament bundle	Cytoskeleton
+Parallel fiber	Cytoplasm
+Parallel fiber to Purkinje cell synapse	Synapse
+Paranodal junction	Cytoplasm
+Paranode region of axon	Axon
+Paraspeckles	Cytoplasm
+Parkin-FBXW7-Cul1 ubiquitin ligase complex	Cytoplasm
+PAS complex	Cytoplasm
+PAT complex	Cytoplasm
+PcG protein complex	Cytoplasm
+PCNA complex	Cytoplasm
+PCNA-p21 complex	Cytoplasm
+PCSK9-AnxA2 complex	Cytoplasm
+PCSK9-LDLR complex	Cytoplasm
+PDX1-PBX1b-MRG1 complex	Cytoplasm
+PeBoW complex	Cytoplasm
+Pectic matrix	Cytoplasm
+Peg and socket contact	Cytoplasm
+Pellicle	Cytoplasm
+Pellicular membrane	Cytoplasm
+penta-snRNP complex	Cytoplasm
+Pentameric IgM immunoglobulin complex	Cytoplasm
+Peptidase complex	Cytoplasm
+Peptidase inhibitor complex	Cytoplasm
+Perforant pathway to dendrate granule cell synapse	Synapse
+Perforation plate	Cytoplasm
+peri-centrosomal recycling endosome	Endosome
+Peribacteroid membrane	Cytoplasm
+Pericanalicular vesicle	Cytoplasm
+Pericellular basket	Cytoplasm
+Pericentric heterochromatin	Nucleus
+Pericentriolar material	Cytoplasm
+Perichromatin fibrils	Nucleus
+Periciliary membrane compartment	Cytoplasm
+Perikaryon	Perikaryon
+Perineuronal net	Cytoplasm
+Perinuclear endoplasmic reticulum	Nucleus
+Perinuclear endoplasmic reticulum lumen	Nucleus
+Perinuclear endoplasmic reticulum membrane	Nucleus
+Perinuclear region of cytoplasm	Nucleus
+Perinuclear theca	Nucleus
+Perinucleolar chromocenter	Nucleus
+Perinucleolar compartment	Nucleus
+Peripheral region of growth cone	Growth cone
+Periplasmic flagellum	Cytoplasm
+Periplasmic side of cell outer membrane	Cytoplasm
+Periplasmic space	Cytoplasm
+Perisynaptic extracellular matrix	Synapse
+Perisynaptic space	Synapse
+Perivitelline space	Cytoplasm
+Peroxisomal importomer complex	Peroxisome
+Peroxisomal matrix	Peroxisome
+Peroxisomal membrane	Peroxisome
+Peroxisome	Peroxisome
+PET complex	Cytoplasm
+Pexophagosome	Phagosome
+PHA granule	Cytoplasm
+Phagocytic cup	Phagocytic cup
+Phagocytic cup base	Phagocytic cup
+Phagocytic vesicle	Cytoplasm
+Phagocytic vesicle lumen	Cytoplasm
+Phagocytic vesicle membrane	Cytoplasm
+Phagolysosome	Lysosome
+Phagolysosome membrane	Lysosome
+Phagophore	Cytoplasm
+Phagophore assembly site	Cytoplasm
+Phagophore assembly site membrane	Cytoplasm
+phenylacetyl-CoA 1,2-epoxidase complex	Cytoplasm
+phenylalanine-tRNA ligase complex	Cytoplasm
+Phenyloplast	Cytoplasm
+Pho85-Pho80 CDK-cyclin complex	Cytoplasm
+Phosphatase complex	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class I	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class IA	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class IB	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class II	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class III	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class III, type I	Cytoplasm
+Phosphatidylinositol 3-kinase complex, class III, type II	Cytoplasm
+Phosphatidylinositol phosphate phosphatase complex	Cytoplasm
+Phosphatidylinositol transporter complex	Cytoplasm
+phosphoenolpyruvate-dependent sugar phosphotransferase complex	Cytoplasm
+Phospholamban complex	Cytoplasm
+phospholipid-translocating ATPase complex	Cytoplasm
+Phosphomannomutase complex	Cytoplasm
+Phosphopantothenoylcysteine decarboxylase complex	Cytoplasm
+Phosphopyruvate hydratase complex	Cytoplasm
+Phosphoribosylaminoimidazole carboxylase complex	Cytoplasm
+Phosphorylase kinase complex	Cytoplasm
+Photoreceptor cell cilium	Cilium
+Photoreceptor connecting cilium	Cilium
+Photoreceptor disc membrane	Cytoplasm
+Photoreceptor distal connecting cilium	Cilium
+Photoreceptor inner segment	Cytoplasm
+Photoreceptor inner segment membrane	Cytoplasm
+Photoreceptor outer segment	Cytoplasm
+Photoreceptor outer segment membrane	Cytoplasm
+Photoreceptor proximal connecting cilium	Cilium
+Photoreceptor ribbon synapse	Synapse
+Photosynthetic membrane	Cytoplasm
+Photosystem	Cytoplasm
+Photosystem I	Cytoplasm
+Photosystem I antenna complex	Cytoplasm
+Photosystem I reaction center	Cytoplasm
+Photosystem II	Cytoplasm
+Photosystem II antenna complex	Cytoplasm
+Photosystem II oxygen evolving complex	Cytoplasm
+Photosystem II reaction center	Cytoplasm
+Phragmoplast	Cytoplasm
+Phragmosome	Cytoplasm
+Phycobilisome	Cytoplasm
+Pi Mi complex	Cytoplasm
+pi-body	Cytoplasm
+Piccolo NuA4 histone acetyltransferase complex	Cytoplasm
+piccolo-bassoon transport vesicle	Cytoplasm
+Pick body	Cytoplasm
+pICln-Sm protein complex	Cytoplasm
+Pigment granule	Cytoplasm
+Pigment granule membrane	Cytoplasm
+Pilus	Cytoplasm
+Pilus shaft	Cytoplasm
+Pilus tip	Cytoplasm
+Pinceau fiber	Cytoplasm
+Pinosome	Cytoplasm
+piP-body	P-body
+Pip2-Oaf1 complex	Cytoplasm
+Pirellulosome	Cytoplasm
+Pituitary gonadotropin complex	Cytoplasm
+PKM2 protein kinase complex	Cytoplasm
+PKM2 pyruvate kinase complex	Cytoplasm
+Plant cell papilla	Cytoplasm
+plant-type cell wall	Cytoplasm
+plant-type vacuole	Cytoplasm
+plant-type vacuole membrane	Cytoplasm
+Plasma lipoprotein particle	Cytoplasm
+Plasma membrane	Cell membrane
+Plasma membrane bounded cell projection	Cell membrane
+Plasma membrane bounded cell projection cytoplasm	Cell membrane
+Plasma membrane fumarate reductase complex	Cell membrane
+Plasma membrane light-harvesting complex	Cell membrane
+Plasma membrane of cell tip	Cell membrane
+Plasma membrane protein complex	Cell membrane
+Plasma membrane proton-transporting ATP synthase complex	Cell membrane
+Plasma membrane proton-transporting ATP synthase complex, catalytic core F(1)	Cell membrane
+Plasma membrane proton-transporting V-type ATPase complex	Cell membrane
+Plasma membrane raft	Cell membrane
+Plasma membrane region	Cell membrane
+Plasma membrane respirasome	Cell membrane
+Plasma membrane respiratory chain complex I	Cell membrane
+Plasma membrane respiratory chain complex II	Cell membrane
+Plasma membrane signaling receptor complex	Cell membrane
+Plasma membrane succinate dehydrogenase complex	Cell membrane
+Plasma membrane-derived chromatophore	Cell membrane
+Plasma membrane-derived chromatophore membrane	Cell membrane
+Plasma membrane-derived thylakoid membrane	Cell membrane
+Plasmodesma	Cytoplasm
+Plasmodesmatal desmotubule	Cytoplasm
+Plasmodesmatal endoplasmic reticulum	Endoplasmic reticulum
+Plasmodesmatal plasma membrane	Cell membrane
+Plastid	Cytoplasm
+Plastid acetyl-CoA carboxylase complex	Cytoplasm
+Plastid chromosome	Nucleus
+Plastid envelope	Cytoplasm
+Plastid inner membrane	Cytoplasm
+Plastid intermembrane space	Cytoplasm
+Plastid large ribosomal subunit	Cytoplasm
+Plastid membrane	Cytoplasm
+Plastid mRNA editing complex	Cytoplasm
+Plastid nucleoid	Nucleus
+Plastid outer membrane	Cytoplasm
+Plastid pyruvate dehydrogenase complex	Cytoplasm
+Plastid ribosome	Cytoplasm
+Plastid small ribosomal subunit	Cytoplasm
+Plastid stroma	Cytoplasm
+Plastid thylakoid	Cytoplasm
+Plastid thylakoid lumen	Cytoplasm
+Plastid thylakoid membrane	Cytoplasm
+plastid-encoded plastid RNA polymerase complex	Cytoplasm
+plastid-encoded plastid RNA polymerase complex A	Cytoplasm
+plastid-encoded plastid RNA polymerase complex B	Cytoplasm
+Plastoglobule	Cytoplasm
+Platelet alpha granule	Cytoplasm
+Platelet alpha granule lumen	Cytoplasm
+Platelet alpha granule membrane	Cytoplasm
+Platelet dense granule	Cytoplasm
+Platelet dense granule lumen	Cytoplasm
+Platelet dense granule membrane	Cytoplasm
+Platelet dense tubular network	Cytoplasm
+Platelet dense tubular network membrane	Cytoplasm
+Platelet glycocalyx	Cytoplasm
+Platelet SNARE complex	Cytoplasm
+platelet-derived growth factor complex	Cytoplasm
+platelet-derived growth factor receptor-ligand complex	Cytoplasm
+Pleated septate junction	Septate junction
+plus-end kinesin complex	Cytoplasm
+PML body	PML body
+PNGase complex	Cytoplasm
+Podocyte foot	Cytoplasm
+Podocyte primary projection	Cytoplasm
+Podosome	Podosome
+Podosome core	Podosome
+Podosome ring	Podosome
+Polar microtubule	Cytoskeleton
+Polar nucleus	Nucleus
+Polar tube	Cytoplasm
+Polarisome	Cytoplasm
+Pole plasm	Cytoplasm
+Polkadots	Cytoplasm
+Pollen aperture	Cytoplasm
+Pollen coat	Cytoplasm
+Pollen tube	Cytoplasm
+Pollen tube tip	Cytoplasm
+Pollen wall	Cytoplasm
+Polyadic synapse	Synapse
+Polycystin complex	Cytoplasm
+Polyketide synthase complex	Cytoplasm
+Polymeric cytoskeletal fiber	Cytoskeleton
+Polymeric IgA immunoglobulin complex	Cytoplasm
+Polyphosphate kinase complex	Cytoplasm
+Polysomal ribosome	Cytoplasm
+Polysome	Cytoplasm
+Polytene chromosome	Nucleus
+Polytene chromosome band	Nucleus
+Polytene chromosome chromocenter	Nucleus
+Polytene chromosome interband	Nucleus
+Polytene chromosome puff	Nucleus
+Pore complex	Cytoplasm
+Porosome	Cytoplasm
+Porous cell septum	Cytoplasm
+post-anaphase array microtubule	Cytoskeleton
+post-anaphase microtubule array	Cytoskeleton
+post-lysosomal vacuole	Lysosome
+post-mRNA release spliceosomal complex	Cytoplasm
+post-spliceosomal complex	Cytoplasm
+Posterior cell cortex	Cell cortex
+Postsynapse	Postsynapse
+Postsynapse of neuromuscular junction	Synapse
+Postsynaptic actin cytoskeleton	Synapse
+Postsynaptic cytoskeleton	Synapse
+Postsynaptic cytosol	Synapse
+Postsynaptic density	Synapse
+Postsynaptic density membrane	Synapse
+Postsynaptic density, intracellular component	Synapse
+Postsynaptic early endosome	Postsynaptic early endosome
+Postsynaptic early endosome membrane	Postsynaptic early endosome membrane
+Postsynaptic endocytic zone	Postsynaptic endocytic zone
+Postsynaptic endocytic zone membrane	Synapse
+Postsynaptic endosome	Postsynaptic endosome
+Postsynaptic endosome membrane	Synapse
+Postsynaptic Golgi apparatus	Synapse
+Postsynaptic intermediate filament cytoskeleton	Synapse
+Postsynaptic membrane	Synapse
+Postsynaptic recycling endosome	Postsynaptic recycling endosome
+Postsynaptic recycling endosome membrane	Postsynaptic recycling endosome membrane
+Postsynaptic specialization	Synapse
+Postsynaptic specialization membrane	Synapse
+Postsynaptic specialization membrane of symmetric synapse	Synapse
+Postsynaptic specialization of symmetric synapse	Synapse
+Postsynaptic specialization, intracellular component	Synapse
+Postsynaptic spectrin-associated cytoskeleton	Synapse
+Potassium channel complex	Cytoplasm
+Potassium ion-transporting ATPase complex	Cytoplasm
+potassium:proton antiporter complex	Cytoplasm
+potassium:proton exchanging ATPase complex	Cytoplasm
+PR-DUB complex	Cytoplasm
+PRC1 complex	Cytoplasm
+pre-B cell receptor complex	Cytoplasm
+pre-primosome complex	Cytoplasm
+pre-replicative complex	Cytoplasm
+pre-snoRNP complex	Cytoplasm
+pre-T cell receptor complex	Cytoplasm
+Precatalytic spliceosome	Cytoplasm
+Prefoldin complex	Cytoplasm
+Preprophase band	Cytoplasm
+Preribosome	Cytoplasm
+preribosome, large subunit precursor	Cytoplasm
+preribosome, small subunit precursor	Cytoplasm
+Prespliceosome	Cytoplasm
+Presynapse	Presynapse
+Presynaptic actin cytoskeleton	Synapse
+Presynaptic active zone	Presynaptic active zone
+Presynaptic active zone cytoplasmic component	Synapse
+Presynaptic active zone dense projection	Synapse
+Presynaptic active zone membrane	Synapse
+Presynaptic cytoskeleton	Synapse
+Presynaptic cytosol	Synapse
+Presynaptic density	Synapse
+Presynaptic endocytic zone	Presynaptic endocytic zone
+Presynaptic endocytic zone membrane	Synapse
+Presynaptic endosome	Presynaptic endosome
+Presynaptic endosome membrane	Synapse
+Presynaptic grid	Synapse
+Presynaptic intermediate filament cytoskeleton	Synapse
+Presynaptic membrane	Synapse
+Presynaptic periactive zone	Synapse
+Primary cell wall	Cytoplasm
+Primary cell wall cellulose synthase complex	Cytoplasm
+Primary dendrite	Dendrite
+Primary endosperm nucleus	Nucleus
+Primary lysosome	Lysosome
+Primary plasmodesma	Cytoplasm
+Primosome complex	Cytoplasm
+Procentriole	Centriole
+Procentriole replication complex	Centriole
+procollagen-proline 4-dioxygenase complex	Cytoplasm
+Prominosome	Cytoplasm
+Pronucleus	Nucleus
+Proplastid	Cytoplasm
+Prospore contractile ring	Cytoplasm
+Prospore membrane	Cytoplasm
+Prospore membrane leading edge	Cytoplasm
+Protease inhibitor complex	Cytoplasm
+Proteasome accessory complex	Cytoplasm
+Proteasome activator complex	Cytoplasm
+Proteasome complex	Cytoplasm
+Proteasome core complex	Cytoplasm
+Proteasome core complex, alpha-subunit complex	Cytoplasm
+Proteasome core complex, beta-subunit complex	Cytoplasm
+Proteasome regulatory particle	Cytoplasm
+Proteasome regulatory particle, base subcomplex	Cytoplasm
+Proteasome regulatory particle, lid subcomplex	Cytoplasm
+Proteasome storage granule	Cytoplasm
+proteasome-activating nucleotidase complex	Nucleus
+Protein aggregate center	Cytoplasm
+Protein body	Cytoplasm
+Protein C inhibitor-coagulation factor V complex	Cytoplasm
+Protein C inhibitor-coagulation factor Xa complex	Cytoplasm
+Protein C inhibitor-coagulation factor XI complex	Cytoplasm
+Protein C inhibitor-KLK3 complex	Cytoplasm
+Protein C inhibitor-plasma kallikrein complex	Cytoplasm
+Protein C inhibitor-PLAT complex	Cytoplasm
+Protein C inhibitor-PLAU complex	Cytoplasm
+Protein C inhibitor-thrombin complex	Cytoplasm
+Protein C inhibitor-TMPRSS11E complex	Cytoplasm
+Protein C inhibitor-TMPRSS7 complex	Cytoplasm
+Protein kinase 5 complex	Cytoplasm
+Protein kinase CK2 complex	Cytoplasm
+Protein N-acetylglucosaminyltransferase complex	Cytoplasm
+Protein phosphatase 4 complex	Cytoplasm
+Protein phosphatase inhibitor complex	Cytoplasm
+Protein phosphatase type 1 complex	Cytoplasm
+Protein phosphatase type 2A complex	Cytoplasm
+Protein serine/threonine phosphatase complex	Cytoplasm
+Protein storage vacuole	Cytoplasm
+Protein storage vacuole membrane	Cytoplasm
+Protein tyrosine phosphatase complex	Cytoplasm
+protein-containing complex	Cytoplasm
+protein-cysteine S-palmitoyltransferase complex	Cytoplasm
+Proteinoplast	Cytoplasm
+Prothylakoid	Cytoplasm
+Prothylakoid membrane	Cytoplasm
+proton-transporting ATP synthase complex	Cytoplasm
+proton-transporting ATP synthase complex, catalytic core F(1)	Cytoplasm
+proton-transporting ATP synthase complex, coupling factor F(o)	Cytoplasm
+proton-transporting ATP synthase, catalytic core	Cytoplasm
+proton-transporting ATP synthase, stator stalk	Cytoplasm
+proton-transporting two-sector ATPase complex	Cytoplasm
+proton-transporting two-sector ATPase complex, catalytic domain	Cytoplasm
+proton-transporting two-sector ATPase complex, proton-transporting domain	Cytoplasm
+proton-transporting V-type ATPase complex	Cytoplasm
+proton-transporting V-type ATPase, V0 domain	Cytoplasm
+proton-transporting V-type ATPase, V1 domain	Cytoplasm
+ProVWX complex	Cytoplasm
+Proximal dendrite	Dendrite
+Proximal neuron projection	Neuron projection
+Proximal portion of axoneme	Axon
+Prp19 complex	Cytoplasm
+Pseudopodium	Cytoplasm
+Pseudopodium membrane	Cytoplasm
+PSI associated light-harvesting complex I	Cytoplasm
+PSII associated light-harvesting complex II	Cytoplasm
+PTEN phosphatase complex	Cytoplasm
+Pterinosome	Cytoplasm
+PTW/PP1 phosphatase complex	Cytoplasm
+PUMA-BCL-2 complex	Cytoplasm
+PUMA-BCL-xl complex	Cytoplasm
+Puncta adhaerentia	Cytoplasm
+Pwp2p-containing subcomplex of 90S preribosome	Cytoplasm
+PYM-mago-Y14 complex	Cytoplasm
+Pyrenoid	Cytoplasm
+pyrophosphate-dependent phosphofructokinase complex	Cytoplasm
+Pyroptosome complex	Cytoplasm
+pyrroline-5-carboxylate reductase complex	Cytoplasm
+Pyruvate dehydrogenase (lipoamide) phosphatase complex	Cytoplasm
+Pyruvate dehydrogenase complex	Cytoplasm
+Pyruvate kinase complex	Cytoplasm
+R2TP complex	Cytoplasm
+Rab-protein geranylgeranyltransferase complex	Cytoplasm
+Rad17 RFC-like complex	Cytoplasm
+Rad51B-Rad51C complex	Cytoplasm
+Rad51B-Rad51C-Rad51D-XRCC2 complex	Cytoplasm
+Rad51C-XRCC3 complex	Cytoplasm
+Rad6-Rad18 complex	Cytoplasm
+RAD6-UBR2 ubiquitin ligase complex	Cytoplasm
+Radial spoke	Cytoplasm
+Radial spoke head	Cytoplasm
+Radial spoke stalk	Cytoplasm
+Ragulator complex	Cytoplasm
+Ras guanyl-nucleotide exchange factor complex	Nucleus
+RAVE complex	Cytoplasm
+Rb-E2F complex	Cytoplasm
+RCAF complex	Cytoplasm
+rDNA heterochromatin	Nucleus
+rDNA protrusion	Nucleus
+RecFOR complex	Cytoplasm
+Recombination nodule	Cytoplasm
+RecQ family helicase-topoisomerase III complex	Cytoplasm
+Recurrent axon collateral	Axon
+Recycling endosome	Endosome
+Recycling endosome lumen	Endosome
+Recycling endosome membrane	Recycling endosome membrane
+Reelin complex	Cytoplasm
+RENT complex	Cytoplasm
+Replication fork	Cytoplasm
+Replication fork protection complex	Cytoplasm
+Replication inhibiting complex	Cytoplasm
+Replisome	Cytoplasm
+RES complex	Cytoplasm
+Reservosome	Cytoplasm
+Reservosome lumen	Cytoplasm
+Reservosome matrix	Cytoplasm
+Reservosome membrane	Cytoplasm
+Respirasome	Cytoplasm
+Respiratory chain complex I	Cytoplasm
+Respiratory chain complex II	Cytoplasm
+Respiratory chain complex III	Cytoplasm
+Respiratory chain complex IV	Cytoplasm
+Retrograte transporter complex, Golgi to ER	Golgi apparatus
+Retromer complex	Cytoplasm
+retromer, cargo-selective complex	Cytoplasm
+retromer, tubulation complex	Cytoplasm
+Retrotransposon nucleocapsid	Nucleus
+Retroviral intasome	Cytoplasm
+Rhabdomere	Cytoplasm
+Rhabdomere membrane	Cytoplasm
+Rhabdomere microvillus	Microvillus
+Rhino-Deadlock-Cutoff Complex	Cytoplasm
+Rhoptry	Cytoplasm
+Rhoptry lumen	Cytoplasm
+Rhoptry membrane	Rhoptry membrane
+Rhoptry neck	Cytoplasm
+Rhp55-Rhp57 complex	Cytoplasm
+Ribbon synapse	Synapse
+Riboflavin synthase complex	Cytoplasm
+Ribonuclease H2 complex	Nucleus
+Ribonuclease III complex	Nucleus
+Ribonuclease MRP complex	Nucleus
+Ribonuclease P complex	Nucleus
+Ribonucleoprotein complex	Nucleus
+Ribonucleoprotein granule	Nucleus
+ribonucleoside-diphosphate reductase complex	Nucleus
+Ribose phosphate diphosphokinase complex	Cytoplasm
+Ribosomal subunit	Cytoplasm
+Ribosome	Cytoplasm
+Ribulose bisphosphate carboxylase complex	Cytoplasm
+Ric1-Rgp1 guanyl-nucleotide exchange factor complex	Nucleus
+Right anterior flagellum	Cytoplasm
+Right caudal flagellum	Cytoplasm
+Right nucleus	Nucleus
+Right tetrad	Cytoplasm
+Ring centriole	Centriole
+Ripoptosome	Cytoplasm
+RISC complex	Cytoplasm
+RISC-loading complex	Cytoplasm
+RITS complex	Cytoplasm
+Rix1 complex	Cytoplasm
+Rixosome complex	Cytoplasm
+RNA cap binding complex	Cytoplasm
+RNA N6-methyladenosine methyltransferase complex	Cytoplasm
+RNA nuclear export complex	Nucleus
+RNA polymerase I complex	Cytoplasm
+RNA polymerase I core factor complex	Cytoplasm
+RNA polymerase I upstream activating factor complex	Cytoplasm
+RNA polymerase II termination complex	Cytoplasm
+RNA polymerase II transcription repressor complex	Cytoplasm
+RNA polymerase II, core complex	Cytoplasm
+RNA polymerase II, holoenzyme	Cytoplasm
+RNA polymerase III complex	Cytoplasm
+RNA polymerase III transcription repressor complex	Cytoplasm
+RNA polymerase IV complex	Cytoplasm
+RNA polymerase transcription factor SL1 complex	Cytoplasm
+RNA polymerase V complex	Cytoplasm
+RNA-directed RNA polymerase complex	Cytoplasm
+RNAi effector complex	Cytoplasm
+RNP body	Cytoplasm
+Rod photoreceptor disc lumen	Cytoplasm
+Rod photoreceptor disc membrane	Cytoplasm
+Rod photoreceptor outer segment	Cytoplasm
+Rod spherule	Cytoplasm
+Root hair	Cytoplasm
+Root hair tip	Cytoplasm
+Rough endoplasmic reticulum	Rough endoplasmic reticulum
+Rough endoplasmic reticulum cisterna	Endoplasmic reticulum
+Rough endoplasmic reticulum lumen	Endoplasmic reticulum
+Rough endoplasmic reticulum membrane	Rough endoplasmic reticulum membrane
+RPAP3/R2TP/prefoldin-like complex	Cytoplasm
+RPB4-RPB7 complex	Cytoplasm
+Rpd3L complex	Cytoplasm
+Rpd3L-Expanded complex	Cytoplasm
+Rpd3S/Clr6-CII complex	Cytoplasm
+RQC complex	Cytoplasm
+RSC-type complex	Cytoplasm
+RSF complex	Cytoplasm
+RSP5-BUL ubiquitin ligase complex	Cytoplasm
+Ruffle	Cytoplasm
+Ruffle membrane	Cytoplasm
+Rvs161p-Rvs167p complex	Cytoplasm
+RZZ complex	Cytoplasm
+S bouton	Cytoplasm
+S-layer	Cytoplasm
+S100A8 complex	Cytoplasm
+S100A9 complex	Cytoplasm
+Sad1-Kms1 LINC complex	Cytoplasm
+SAGA complex	Cytoplasm
+SAGA-type complex	Cytoplasm
+SAM complex	Cytoplasm
+Sarcoglycan complex	Cytoplasm
+Sarcolemma	Sarcolemma
+Sarcomere	M line
+Sarcoplasm	Sarcoplasm
+Sarcoplasmic reticulum	Sarcoplasmic reticulum
+Sarcoplasmic reticulum lumen	Sarcoplasm
+Sarcoplasmic reticulum membrane	Sarcoplasmic reticulum membrane
+Sarcosine oxidase complex	Cytoplasm
+SAS acetyltransferase complex	Cytoplasm
+Satellite fibril	Cytoplasm
+SBF transcription complex	Cytoplasm
+SC5b-7 complex	Cytoplasm
+SCAR complex	Cytoplasm
+Scc2-Scc4 cohesin loading complex	Cytoplasm
+SCF ubiquitin ligase complex	Cytoplasm
+SCF-Cdc4 ubiquitin ligase complex	Cytoplasm
+SCF-Das1 ubiquitin ligase complex	Cytoplasm
+SCF-Mdm30 ubiquitin ligase complex	Cytoplasm
+SCF-Skp2 ubiquitin ligase complex	Cytoplasm
+SCF-Ucc1 ubiquitin ligase complex	Cytoplasm
+Schaffer axon collateral	Axon
+Schaffer collateral - CA1 synapse	Synapse
+Schmidt-Lanterman incisure	Cytoplasm
+Schwann cell microvillus	Microvillus
+Scintillon	Cytoplasm
+Scrib-APC-beta-catenin complex	Cytoplasm
+Sculpture element	Cytoplasm
+Sec61 translocon complex	Cytoplasm
+Sec62/Sec63 complex	Cytoplasm
+Secondary cell wall	Cytoplasm
+Secondary cell wall cellulose synthase complex	Cytoplasm
+Secondary lysosome	Lysosome
+Secondary plasmodesma	Cytoplasm
+Secretory dimeric IgA immunoglobulin complex	Cytoplasm
+Secretory granule	Cytoplasm
+Secretory granule lumen	Cytoplasm
+Secretory granule membrane	Cytoplasm
+Secretory IgA immunoglobulin complex	Cytoplasm
+Secretory vesicle	Secretory vesicle
+Seh1-associated complex	Cytoplasm
+Semaphorin receptor complex	Cytoplasm
+senescence-associated heterochromatin focus	Nucleus
+senescence-associated vacuole	Cytoplasm
+Sensory dendrite	Dendrite
+separase-securin complex	Cytoplasm
+Septal periplasm	Cytoplasm
+Septate junction	Septate junction
+Septin band	Cytoplasm
+Septin cap	Cytoplasm
+Septin collar	Cytoplasm
+Septin complex	Cytoplasm
+Septin cytoskeleton	Cytoskeleton
+Septin filament array	Cytoplasm
+Septin ring	Cytoplasm
+SeqA-DNA complex	Nucleus
+Serine C-palmitoyltransferase complex	Cytoplasm
+Serine protease inhibitor complex	Cytoplasm
+serine-pyruvate aminotransferase complex	Cytoplasm
+serine-tRNA ligase complex	Cytoplasm
+serine-type endopeptidase complex	Cytoplasm
+serine-type peptidase complex	Cytoplasm
+Serotonergic synapse	Synapse
+Serotonin receptor complex	Cytoplasm
+serotonin-activated cation-selective channel complex	Cytoplasm
+Set1C/COMPASS complex	Cytoplasm
+Set3 complex	Cytoplasm
+Sex chromatin	Nucleus
+Sexine	Cytoplasm
+Sexual spore wall	Cytoplasm
+Shc-EGFR complex	Cytoplasm
+Shc-Grb2-Sos complex	Cytoplasm
+sheet-forming collagen trimer	Cytoplasm
+Shelterin complex	Cytoplasm
+short-chain collagen trimer	Cytoplasm
+SHREC complex	Cytoplasm
+SHREC2 complex	Cytoplasm
+Shu complex	Cytoplasm
+Sid2-Mob1 complex	Cytoplasm
+Side of membrane	Cytoplasm
+Sieve area	Cytoplasm
+Sieve plate	Cytoplasm
+Signal peptidase complex	Cytoplasm
+Signal recognition particle	Cytoplasm
+Signal recognition particle receptor complex	Cytoplasm
+Signal recognition particle, chloroplast targeting	Cytoplasm
+Signal recognition particle, endoplasmic reticulum targeting	Endoplasmic reticulum
+Silver ion transmembrane transporter complex	Cytoplasm
+Simple sieve plate	Cytoplasm
+Sin3 complex	Cytoplasm
+Sin3-type complex	Cytoplasm
+single-stranded DNA-binding protein complex	Nucleus
+Site of DNA damage	Nucleus
+Site of double-strand break	Cytoplasm
+Site of polarized growth	Cytoplasm
+skein-like inclusion	Cytoplasm
+Skeletal muscle myofibril	Myofibril
+Ski complex	Cytoplasm
+SL snRNP	Cytoplasm
+SLAC complex	Cytoplasm
+SLIK (SAGA-like) complex	Cytoplasm
+Slime layer	Cytoplasm
+Slit diaphragm	Cytoplasm
+Slit-Robo signaling complex	Cytoplasm
+Slx1-Slx4 complex	Cytoplasm
+Sm-like protein family complex	Cytoplasm
+SMAD protein complex	Cytoplasm
+Small nuclear ribonucleoprotein complex	Nucleus
+Small ribosomal subunit	Cytoplasm
+Small ribosomal subunit processing complex	Cytoplasm
+small-subunit processome	Cytoplasm
+SMC loading complex	Cytoplasm
+Smc5-Smc6 complex	Cytoplasm
+SMN complex	Cytoplasm
+SMN-Gemin2 complex	Gem
+SMN-Sm protein complex	Cytoplasm
+Smooth endoplasmic reticulum	Smooth endoplasmic reticulum
+Smooth endoplasmic reticulum cisterna	Endoplasmic reticulum
+Smooth endoplasmic reticulum lumen	Endoplasmic reticulum
+Smooth endoplasmic reticulum membrane	Smooth endoplasmic reticulum membrane
+Smooth muscle contractile fiber	Cytoplasm
+Smooth muscle dense body	Cytoplasm
+Smooth septate junction	Septate junction
+Smp focus	Cytoplasm
+SNARE complex	Cytoplasm
+sno(s)RNA-containing ribonucleoprotein complex	Nucleus
+snRNA-activating protein complex	Cytoplasm
+Snt2C complex	Cytoplasm
+SOD1-Bcl-2 complex	Cytoplasm
+SOD1-calcineurin complex	Cytoplasm
+Sodium channel complex	Cytoplasm
+sodium:potassium-exchanging ATPase complex	Cytoplasm
+Somatic ring canal	Cytoplasm
+Somatic spine	Dendritic spine
+Somatodendritic compartment	Dendrite
+Sorting endosome	Endosome
+SOSS complex	Cytoplasm
+Spanning component of membrane	Cytoplasm
+Spanning component of plasma membrane	Cell membrane
+Specific granule	Cytoplasm
+Specific granule lumen	Cytoplasm
+Specific granule membrane	Cytoplasm
+spectrin-associated cytoskeleton	Cytoskeleton
+Spectrosome	Cytoplasm
+Sperm annulus	Cytoplasm
+Sperm connecting piece	Cytoplasm
+Sperm cytoplasmic droplet	Cytoplasm
+Sperm end piece	Cytoplasm
+Sperm fibrous sheath	Cytoplasm
+Sperm flagellum	Cytoplasm
+Sperm glycocalyx	Cytoplasm
+Sperm head	Cytoplasm
+Sperm head plasma membrane	Cell membrane
+Sperm head-tail coupling apparatus	Cytoplasm
+Sperm individualization complex	Cytoplasm
+Sperm midpiece	Cytoplasm
+Sperm mitochondrial sheath	Mitochondrion
+Sperm plasma membrane	Cell membrane
+Sperm principal piece	Cytoplasm
+Spermatoproteasome complex	Cytoplasm
+Sphere organelle	Cytoplasm
+Spherical high-density lipoprotein particle	Cytoplasm
+Spindle	Cytoplasm
+Spindle envelope	Cytoplasm
+Spindle matrix	Cytoplasm
+Spindle microtubule	Cytoskeleton
+Spindle midzone	Cytoplasm
+Spindle pole	Cytoplasm
+Spindle pole body	Cytoplasm
+Spindle pole centrosome	Centrosome
+Spine apparatus	Spine apparatus
+Spine apparatus membrane	Dendritic spine
+Spine mat	Dendritic spine
+Spine synapse	Synapse
+Spitzenkorper	Cytoplasm
+Spliceosomal complex	Cytoplasm
+Spliceosomal snRNP complex	Cytoplasm
+Spliceosomal tri-snRNP complex	Cytoplasm
+Split septin rings	Cytoplasm
+Spongiome	Cytoplasm
+Spore inner membrane	Cytoplasm
+Spore wall	Cytoplasm
+Sporoplasm	Cytoplasm
+Spot adherens junction	Adherens junction
+SPOTS complex	Cytoplasm
+SREBP-SCAP complex	Cytoplasm
+SREBP-SCAP-Insig complex	Cytoplasm
+Ssh1 translocon complex	Cytoplasm
+SsuD-SsuE complex	Cytoplasm
+Starch grain	Cytoplasm
+Starch utilization system complex	Cytoplasm
+Static microtubule bundle	Cytoskeleton
+Stereocilia ankle link	Cytoplasm
+Stereocilia ankle link complex	Cytoplasm
+Stereocilia coupling link	Cytoplasm
+Stereocilia tip link	Cytoplasm
+Stereocilia tip-link density	Cytoplasm
+Stereocilium	Cilium
+Stereocilium base	Cilium
+Stereocilium bundle	Cilium
+Stereocilium coat	Cilium
+Stereocilium membrane	Cilium
+Stereocilium shaft	Cilium
+Stereocilium tip	Cilium
+Stigma papilla	Cytoplasm
+STING complex	Cytoplasm
+Storage vacuole	Cytoplasm
+Stress fiber	Stress fiber
+Striated muscle dense body	Cytoplasm
+Striated muscle myosin thick filament	Cytoplasm
+Striated muscle thin filament	Cytoplasm
+Stromule	Cytoplasm
+sub-surface cisterna	Cytoplasm
+Subapical complex	Apical cell membrane
+Subapical part of cell	Apical cell membrane
+Subcortical maternal complex	Cytoplasm
+Subpellicular microtubule	Cytoskeleton
+Subpellicular network	Cytoplasm
+Subrhabdomeral cisterna	Cytoplasm
+Subsynaptic reticulum	Synapse
+Subtelomeric heterochromatin	Nucleus
+Succinate dehydrogenase complex	Cytoplasm
+Succinate dehydrogenase complex (ubiquinone)	Cytoplasm
+succinate-CoA ligase complex	Cytoplasm
+succinate-CoA ligase complex (ADP-forming)	Cytoplasm
+succinate-CoA ligase complex (GDP-forming)	Cytoplasm
+sucrase-isomaltase complex	Cytoplasm
+Sulfate adenylyltransferase complex (ATP)	Cytoplasm
+Sulfite reductase complex (NADPH)	Cytoplasm
+Sulfopyruvate decarboxylase complex	Cytoplasm
+SUMO activating enzyme complex	Cytoplasm
+SUMO-targeted ubiquitin ligase complex	Cytoplasm
+Super elongation complex	Cytoplasm
+Superoxide dismutase complex	Cytoplasm
+Superoxide dismutase copper chaperone complex	Cytoplasm
+Supramolecular complex	Cytoplasm
+Supramolecular fiber	Cytoplasm
+Supramolecular polymer	Cytoplasm
+Supraspliceosomal complex	Cytoplasm
+Survivin complex	Cytoplasm
+Sweet taste receptor complex	Cytoplasm
+SWI/SNF complex	Cytoplasm
+SWI/SNF superfamily-type complex	Cytoplasm
+Swi5-Sfr1 complex	Cytoplasm
+Swi5-Swi2 complex	Cytoplasm
+Swr1 complex	Cytoplasm
+Symbiont cell surface	Cell surface
+Symbiosome	Cytoplasm
+Symmetric synapse	Synapse
+symmetric, GABA-ergic, inhibitory synapse	Synapse
+Symplast	Cytoplasm
+Synapse	Synapse
+synapse-associated extracellular matrix	Synapse
+Synapsis initiation complex	Synapse
+Synaptic cleft	Synapse
+Synaptic membrane	Synapse
+Synaptic ribbon	Synapse
+Synaptic vesicle	Synaptic vesicle
+Synaptic vesicle lumen	Synapse
+Synaptic vesicle membrane	Synaptic vesicle membrane
+Synaptic vesicle protein transport vesicle	Synapse
+Synaptic vesicle, readily releasable pool	Synapse
+Synaptic vesicle, recycling pool	Synapse
+Synaptic vesicle, resting pool	Synapse
+Synaptobrevin 2-SNAP-25-syntaxin-1a complex	Synapse
+Synaptobrevin 2-SNAP-25-syntaxin-1a-complexin I complex	Synapse
+Synaptobrevin 2-SNAP-25-syntaxin-1a-complexin II complex	Synapse
+Synaptobrevin 2-SNAP-25-syntaxin-3-complexin complex	Synapse
+Synaptonemal complex	Synapse
+Synaptonemal structure	Synapse
+syndecan-syntenin-ALIX complex	Cytoplasm
+syntaxin-6-syntaxin-16-Vti1a complex	Cytoplasm
+Syntrophin complex	Cytoplasm
+Syp1 complex	Cytoplasm
+T cell receptor complex	Cytoplasm
+T-bar	Cytoplasm
+T-tubule	T-tubule
+t-UTP complex	Cytoplasm
+TACC/TOG complex	Cytoplasm
+TAM protein secretion complex	Cytoplasm
+TAP complex	Cytoplasm
+Tapasin-ERp57 complex	Cytoplasm
+TAT protein transport complex	Cytoplasm
+Taurine dioxygenase complex	Cytoplasm
+TCR signalosome	Cytoplasm
+Tea1 cell-end complex	Cytoplasm
+TEAD-YAP complex	Cytoplasm
+Tec1p-Ste12p-Dig1p complex	Cytoplasm
+Tectum	Cytoplasm
+Telodendria	Cytoplasm
+Telomerase catalytic core complex	Cytoplasm
+Telomerase holoenzyme complex	Cytoplasm
+Telomere cap complex	Cytoplasm
+telomere-telomerase complex	Cytoplasm
+Telopode	Cytoplasm
+Tenascin complex	Cytoplasm
+Terminal bouton	Cytoplasm
+Terminal cisterna	Cytoplasm
+Terminal cisterna lumen	Cytoplasm
+Terminal loop	Cytoplasm
+Terminal web	Cytoplasm
+TERT-RMRP complex	Cytoplasm
+Tertiary granule	Cytoplasm
+Tertiary granule lumen	Cytoplasm
+Tertiary granule membrane	Cytoplasm
+tetraspanin-enriched microdomain	Cytoplasm
+Thiazole synthase complex	Cytoplasm
+Thioglucosidase complex	Cytoplasm
+thioredoxin-disulfide reductase complex	Cytoplasm
+THO complex	Cytoplasm
+THO complex part of transcription export complex	Cytoplasm
+Thorny excrescence	Cytoplasm
+Thrombospondin complex	Cytoplasm
+Thylakoid	Cytoplasm
+Thylakoid light-harvesting complex	Cytoplasm
+Thylakoid lumen	Cytoplasm
+Thylakoid membrane	Cytoplasm
+Tic complex	Cytoplasm
+Tight junction	Tight junction
+TIM22 mitochondrial import inner membrane insertion complex	Mitochondrion
+TIM23 mitochondrial import inner membrane translocase complex	Mitochondrion
+TIS granule	Cytoplasm
+titin-telethonin complex	Cytoplasm
+Toc complex	Cytoplasm
+Toll-like receptor 1-Toll-like receptor 2 protein complex	Cytoplasm
+Toll-like receptor 2-Toll-like receptor 6 protein complex	Cytoplasm
+TOM complex	Cytoplasm
+Tor2-Mei2-Ste11 complex	Cytoplasm
+TORC1 complex	Cytoplasm
+TORC2 complex	Cytoplasm
+toxin-antitoxin complex	Cytoplasm
+TRAF2-GSTP1 complex	Cytoplasm
+TRAIL death-inducing signaling complex	Cytoplasm
+TRAMP complex	Cytoplasm
+Trans spliceosomal complex	Cytoplasm
+trans-Golgi network	trans-Golgi network
+trans-Golgi network membrane	trans-Golgi network membrane
+trans-Golgi network transport vesicle	Golgi apparatus
+trans-Golgi network transport vesicle membrane	Golgi apparatus
+trans-synaptic protein complex	Synapse
+Transcription export complex	Cytoplasm
+Transcription export complex 2	Cytoplasm
+Transcription factor AP-1 complex	Cytoplasm
+Transcription factor TFIIA complex	Cytoplasm
+Transcription factor TFIID complex	Cytoplasm
+Transcription factor TFIIE complex	Cytoplasm
+Transcription factor TFIIF complex	Cytoplasm
+Transcription factor TFIIH core complex	Cytoplasm
+Transcription factor TFIIH holo complex	Cytoplasm
+Transcription factor TFIIIB complex	Cytoplasm
+Transcription factor TFIIIB-beta complex	Cytoplasm
+Transcription factor TFIIIC complex	Cytoplasm
+Transcription factor TFIIIC2 complex	Cytoplasm
+Transcription factor TFIIK complex	Cytoplasm
+Transcription factor TFTC complex	Cytoplasm
+Transcription preinitiation complex	Cytoplasm
+Transcription ternary complex	Cytoplasm
+Transforming growth factor beta activated kinase 1 complex	Cytoplasm
+Transforming growth factor beta ligand-receptor complex	Cytoplasm
+Translation initiation complex	Cytoplasm
+Translation initiation ternary complex	Cytoplasm
+Translation preinitiation complex	Cytoplasm
+Translation release factor complex	Cytoplasm
+Translation repressor complex	Cytoplasm
+Transmembrane actin-associated (TAN) line	Cytoskeleton
+Transmembrane collagen trimer	Cytoplasm
+Transmembrane transporter complex	Cytoplasm
+Transnitrosylase complex	Cytoplasm
+Transport vesicle	Cytoplasm
+Transport vesicle membrane	Cytoplasm
+Transverse filament	Cytoplasm
+Transverse flagellum	Cytoplasm
+TRAPP complex	Cytoplasm
+TRAPPI protein complex	Cytoplasm
+TRAPPII protein complex	Cytoplasm
+TRAPPIII protein complex	Cytoplasm
+TRC complex	Cytoplasm
+Tricarboxylic acid cycle enzyme complex	Cytoplasm
+Tricellular tight junction	Tight junction
+Trichocyst	Cytoplasm
+triglyceride-rich plasma lipoprotein particle	Cytoplasm
+trimethylamine-N-oxide reductase (cytochrome c) complex	Cytoplasm
+trimethylamine-N-oxide reductase complex	Cytoplasm
+Tripartite ATP-independent periplasmic transporter complex	Cytoplasm
+Tripartite attachment complex	Cytoplasm
+tRNA (m1A) methyltransferase complex	Cytoplasm
+tRNA (m2G10) methyltransferase complex	Cytoplasm
+tRNA (m7G46) methyltransferase complex	Cytoplasm
+tRNA methyltransferase complex	Cytoplasm
+tRNA-intron endonuclease complex	Nucleus
+tRNA-specific adenosine-34 deaminase complex	Cytoplasm
+tRNA-splicing ligase complex	Cytoplasm
+Troponin complex	Cytoplasm
+TSC1-TSC2 complex	Cytoplasm
+TTT complex	Cytoplasm
+Tubular endosome	Endosome
+Tubulin folding cofactor complex	Cytoplasm
+Tubulobulbar complex	Cytoplasm
+Tumor necrosis factor receptor superfamily complex	Cytoplasm
+Type I interferon receptor complex	Cytoplasm
+Type I pilus	Cytoplasm
+Type I protein secretion system complex	Cytoplasm
+Type I site-specific deoxyribonuclease complex	Nucleus
+Type I terminal bouton	Cytoplasm
+Type Ib terminal bouton	Cytoplasm
+Type II polyketide synthase complex	Cytoplasm
+Type II protein secretion system complex	Cytoplasm
+Type II site-specific deoxyribonuclease complex	Nucleus
+Type II terminal bouton	Cytoplasm
+Type III intermediate filament	Cytoplasm
+Type III polyketide synthase complex	Cytoplasm
+Type III protein secretion system complex	Cytoplasm
+Type III site-specific deoxyribonuclease complex	Nucleus
+Type IV pilus	Cytoplasm
+Type IV secretion system complex	Cytoplasm
+Type IV site-specific deoxyribonuclease complex	Nucleus
+Type V protein secretion system complex	Cytoplasm
+Type VI protein secretion system complex	Cytoplasm
+U1 snRNP	Cytoplasm
+U11 snRNP	Cytoplasm
+U11/U12 snRNP	Cytoplasm
+U12 snRNP	Cytoplasm
+U12-type precatalytic spliceosome	Cytoplasm
+U12-type prespliceosome	Cytoplasm
+U12-type spliceosomal complex	Cytoplasm
+U2 snRNP	Cytoplasm
+U2-type catalytic step 1 spliceosome	Cytoplasm
+U2-type catalytic step 2 spliceosome	Cytoplasm
+U2-type post-mRNA release spliceosomal complex	Cytoplasm
+U2-type post-spliceosomal complex	Cytoplasm
+U2-type precatalytic spliceosome	Cytoplasm
+U2-type prespliceosome	Cytoplasm
+U2-type spliceosomal complex	Cytoplasm
+U2AF complex	Cytoplasm
+U4 snRNP	Cytoplasm
+U4/U6 snRNP	Cytoplasm
+U4/U6 x U5 tri-snRNP complex	Cytoplasm
+U4atac snRNP	Cytoplasm
+U4atac/U6atac snRNP	Cytoplasm
+U4atac/U6atac x U5 tri-snRNP complex	Cytoplasm
+U5 snRNP	Cytoplasm
+U6 snRNP	Cytoplasm
+U6atac snRNP	Cytoplasm
+U7 snRNP	Cytoplasm
+UBC13-UEV1A complex	Cytoplasm
+Ubiquinone biosynthesis complex	Cytoplasm
+Ubiquitin activating enzyme complex	Cytoplasm
+Ubiquitin conjugating enzyme complex	Cytoplasm
+Ubisch body	Cytoplasm
+Ubp3-Bre5 deubiquitination complex	Cytoplasm
+UBR1-RAD6 ubiquitin ligase complex	Cytoplasm
+UDP-N-acetylglucosamine transferase complex	Cytoplasm
+UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase complex	Lysosome
+UFD1-NPL4 complex	Cytoplasm
+Unconventional myosin complex	Cytoplasm
+Uniplex complex	Cytoplasm
+Upper tip-link density	Cytoplasm
+Upstream stimulatory factor complex	Cytoplasm
+Urease activator complex	Cytoplasm
+Urease complex	Cytoplasm
+Uropod	Cytoplasm
+Uropod membrane	Cytoplasm
+USH2 complex	Cytoplasm
+UTP-C complex	Cytoplasm
+Vacuolar HOPS complex	Cytoplasm
+Vacuolar lumen	Cytoplasm
+Vacuolar membrane	Cytoplasm
+Vacuolar proton-transporting V-type ATPase complex	Cytoplasm
+Vacuolar proton-transporting V-type ATPase, V0 domain	Cytoplasm
+Vacuolar proton-transporting V-type ATPase, V1 domain	Cytoplasm
+Vacuolar transporter chaperone complex	Cytoplasm
+Vacuole	Cytoplasm
+vacuole-isolation membrane contact site	Cytoplasm
+vacuole-mitochondrion membrane contact site	Mitochondrion
+vanadium-iron nitrogenase complex	Cytoplasm
+Varicosity	Cytoplasm
+Vascular endothelial glycocalyx	Cytoplasm
+VCB complex	Cytoplasm
+VCP-NPL4-UFD1 AAA ATPase complex	Cytoplasm
+VCP-NSFL1C complex	Cytoplasm
+VEGF-A complex	Cytoplasm
+Ventral disc	Cytoplasm
+Ventral disc microtubule array	Cytoskeleton
+Ventral disc overlap zone	Cytoplasm
+Ventral surface of cell	Cytoplasm
+very-low-density lipoprotein particle	Cytoplasm
+Vesicle	Cytoplasm
+Vesicle coat	Cytoplasm
+Vesicle lumen	Cytoplasm
+Vesicle membrane	Cytoplasm
+Vesicle tethering complex	Cytoplasm
+Vestibular calyx terminal	Cytoplasm
+Viral assembly intermediate	Cytoplasm
+Viral RNA-directed RNA polymerase complex	Cytoplasm
+Virion transport vesicle	Cytoplasm
+Vitelline envelope	Cytoplasm
+Vma12-Vma22 assembly complex	Cytoplasm
+voltage-gated calcium channel complex	Cytoplasm
+voltage-gated potassium channel complex	Cytoplasm
+voltage-gated sodium channel complex	Cytoplasm
+Vps55/Vps68 complex	Cytoplasm
+W chromosome	Nucleus
+WASH complex	Cytoplasm
+Weibel-Palade body	Cytoplasm
+WICH complex	Cytoplasm
+Wnt signalosome	Cytoplasm
+Wnt-Frizzled-LRP5/6 complex	Cytoplasm
+Woronin body	Cytoplasm
+Xanthine dehydrogenase complex	Cytoplasm
+Xanthophore	Cytoplasm
+XPC complex	Cytoplasm
+XRCC2-RAD51D complex	Cytoplasm
+XY body	Cytoplasm
+Xylanosome	Cytoplasm
+Y-shaped link	Cytoplasm
+Yae1-Lto1 complex	Cytoplasm
+Yb body	Cytoplasm
+Ycf2/FtsHi complex	Cytoplasm
+yeast-form cell wall	Cytoplasm
+Yolk	Cytoplasm
+Yolk granule	Cytoplasm
+Yolk plasma	Cytoplasm
+Z chromosome	Nucleus
+Z disc	Cytoplasm
+Z granule	Cytoplasm
+Zeta DNA polymerase complex	Nucleus
+Zona pellucida receptor complex	Cytoplasm
+Zonula adherens	Cytoplasm
+Zymogen granule	Zymogen granule
+Zymogen granule membrane	Zymogen granule membrane

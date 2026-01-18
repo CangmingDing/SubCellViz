@@ -1,0 +1,22 @@
+Package: SubCellViz
+Type: Package
+Title: Subcellular Localization Visualization on Cell SVG Templates
+Version: 0.1.0
+Authors@R: c(
+    person("Cangming", "Ding", role = c("aut", "cre"), email = "20220123072@bucm.edu.cn")
+  )
+Description: Visualize subcellular localization scores on curated SVG cell templates.
+    Provides a function to color compartments by gene and cell type and save results
+    as PNG and PDF.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports:
+    dplyr,
+    RColorBrewer,
+    rsvg,
+    xml2
+Suggests:
+    roxygen2
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
