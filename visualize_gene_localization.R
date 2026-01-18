@@ -10,7 +10,7 @@ suppressPackageStartupMessages({
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) < 2) {
   cat("用法: /usr/local/bin/Rscript visualize_gene_localization.R <基因名> <细胞类型> [配色方案]\n")
-  cat("细胞类型可选: animal, muscle, neuron, epithelial\n")
+  cat("细胞类型可选: human, muscle, neuron, epithelial\n")
   cat("配色方案可选: 预设名(如 viridis, gfp) 或 自定义双色(如 '#FF0000,#0000FF')\n")
   q(status = 1)
 }

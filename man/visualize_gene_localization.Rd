@@ -15,7 +15,7 @@ visualize_gene_localization(
 \arguments{
 \item{gene}{基因名，例如 "TP53"}
 
-\item{cell_type}{细胞类型：animal/muscle/neuron/epithelial}
+\item{cell_type}{细胞类型：human/muscle/neuron/epithelial}
 
 \item{palette}{配色方案：预设名（如 "viridis"）或自定义双色（如 "#FF00FF,#00FFFF"）}
 

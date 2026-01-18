@@ -72,7 +72,7 @@ subcellviz_get_color_and_opacity <- function(score, min_score, max_score, palett
 #' 生成亚细胞定位上色图（PNG 与 PDF）
 #'
 #' @param gene 基因名，例如 "TP53"
-#' @param cell_type 细胞类型：animal/muscle/neuron/epithelial
+#' @param cell_type 细胞类型：human/muscle/neuron/epithelial
 #' @param palette 配色方案：预设名（如 "viridis"）或自定义双色（如 "#FF00FF,#00FFFF"）
 #' @param out_dir 输出目录
 #' @param data_dir 资源目录（可选）。不填时优先使用包内 extdata
@@ -86,8 +86,8 @@ visualize_gene_localization <- function(
   data_dir = NULL
 ) {
   cell_type <- tolower(cell_type)
-  if (!(cell_type %in% c("animal", "muscle", "neuron", "epithelial"))) {
-    stop("无效的细胞类型。请选择: animal, muscle, neuron, epithelial")
+  if (!(cell_type %in% c("human", "muscle", "neuron", "epithelial"))) {
+    stop("无效的细胞类型。请选择: human, muscle, neuron, epithelial")
   }
   if (is.null(gene) || !nzchar(gene)) {
     stop("gene 不能为空")
@@ -100,7 +100,7 @@ visualize_gene_localization <- function(
   tsv_path <- if (file.exists(tsv_bz)) tsv_bz else if (file.exists(tsv_gz)) tsv_gz else tsv_plain
   mapping_path <- file.path(ext_dir, "mapping.txt")
   svg_map <- list(
-    animal = file.path(ext_dir, "Animal_cells.svg"),
+    human = file.path(ext_dir, "Human_cells.svg"),
     muscle = file.path(ext_dir, "Muscle_cells.svg"),
     neuron = file.path(ext_dir, "Neuron_cells.svg"),
     epithelial = file.path(ext_dir, "Epithelial_cells.svg")

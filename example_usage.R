@@ -22,7 +22,7 @@ SubCellViz::visualize_gene_localization(
 
 # 3. 探索不同的细胞类型 ----
 # SubCellViz 支持四种内置细胞模板：
-# "animal" (通用动物细胞), "muscle" (肌肉细胞), "neuron" (神经元), "epithelial" (上皮细胞)
+# "human" (通用人体细胞), "muscle" (肌肉细胞), "neuron" (神经元), "epithelial" (上皮细胞)
 
 message("正在运行多细胞类型示例：神经元...")
 SubCellViz::visualize_gene_localization(
@@ -43,7 +43,7 @@ print(all_palettes)
 message("正在运行学术配色示例：使用 viridis...")
 SubCellViz::visualize_gene_localization(
   gene = "GAPDH", 
-  cell_type = "animal", 
+  cell_type = "human", 
   palette = "viridis"
 )
 
@@ -68,7 +68,7 @@ message("正在批量生成图表...")
 for (g in my_genes) {
   SubCellViz::visualize_gene_localization(
     gene = g,
-    cell_type = "animal",
+    cell_type = "human",
     palette = "nebula",
     out_dir = output_folder
   )
