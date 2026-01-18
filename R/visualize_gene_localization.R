@@ -85,6 +85,9 @@ visualize_gene_localization <- function(
   out_dir = getwd(),
   data_dir = NULL
 ) {
+  # 验证激活状态
+  check_auth()
+
   cell_type <- tolower(cell_type)
   if (!(cell_type %in% c("human", "muscle", "neuron", "epithelial"))) {
     stop("无效的细胞类型。请选择: human, muscle, neuron, epithelial")

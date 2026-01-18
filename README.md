@@ -21,6 +21,16 @@ remotes::install_github('CangmingDing/SubCellViz')
 install.packages('SubCellViz_0.1.0.tar.gz', repos = NULL)
 ```
 
+### 激活
+
+首次使用需要激活。请在 R 中运行以下命令获取机器码，并联系作者（邮箱：20220123072@bucm.edu.cn）获取激活码：
+
+```r
+library(SubCellViz)
+get_machine_code()  # 获取并复制机器码发送给作者
+activate_subcellviz('您的激活码')  # 收到激活码后运行
+```
+
 ## 快速上手
 
 更详细的教程请参考 [example_usage.R](./example_usage.R)。

@@ -10,6 +10,14 @@
 
 library(SubCellViz)
 
+# --- 首次使用需激活 ---
+# 运行以下命令获取您的机器码，并联系作者获取激活码：
+# get_machine_code()
+# 
+# 拿到激活码后，运行一次即可永久激活：
+# activate_subcellviz("您的激活码")
+# --------------------
+
 # 2. 基础用法：默认设置 ----
 # 目标：可视化 TP53 在上皮细胞 (epithelial) 中的定位，使用默认配色 "fire"
 # 结果：将在当前工作目录下生成 TP53_epithelial.png 和 TP53_epithelial.pdf

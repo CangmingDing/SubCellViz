@@ -21,6 +21,16 @@ remotes::install_github('CangmingDing/SubCellViz')
 install.packages('SubCellViz_0.1.0.tar.gz', repos = NULL)
 ```
 
+### Activation
+
+Activation is required for the first use. Run the following command in R to get your machine code, and contact the author (email: 20220123072@bucm.edu.cn) to obtain an activation code:
+
+```r
+library(SubCellViz)
+get_machine_code()  # Copy and send your machine code to the author
+activate_subcellviz('YOUR_ACTIVATION_CODE')  # Run after receiving the code
+```
+
 ## Quick Start
 
 For a detailed tutorial, please refer to [example_usage.R](./example_usage.R).
